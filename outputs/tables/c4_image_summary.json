@@ -1,0 +1,11 @@
+{
+  "n_imagenes": 2852,
+  "formatos": {
+    "JPEG": 2304,
+    "PNG": 548
+  },
+  "color_n": 1144,
+  "gris_n": 1708,
+  "footprint_bytes": 524195022,
+  "footprint_mb": 524.2
+}

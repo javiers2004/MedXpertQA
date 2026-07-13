@@ -1,0 +1,3 @@
+subconjunto,n_opciones,n,baseline_azar,baseline_mayoria,letra_mayoritaria,chi2,p_valor,uniforme_p>0.05
+MM,5,2000,0.2,0.212,E,2.815,0.5892462299057325,True
+Text,10,2450,0.1,0.1073,E,6.318,0.7076801561883406,True

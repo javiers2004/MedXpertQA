@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>00 integridad</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  color: #1a1a1a; background: #f4f4f2; line-height: 1.62;
+  margin: 0; padding: 2.2rem 1rem;
+}
+main {
+  max-width: 900px; margin: 0 auto; background: #ffffff;
+  padding: 2.6rem 3rem; border: 1px solid #e2e1db; border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+}
+h1, h2, h3 { line-height: 1.25; color: #0b0b0b; }
+h1 { font-size: 1.85rem; margin: 0 0 1.2rem; padding-bottom: .5rem; border-bottom: 3px solid #2a78d6; }
+h2 { font-size: 1.35rem; margin: 2.2rem 0 .8rem; padding-bottom: .3rem; border-bottom: 1px solid #e2e1db; }
+h3 { font-size: 1.1rem; margin: 1.6rem 0 .5rem; color: #2a3340; }
+p, li { font-size: .98rem; }
+a { color: #1f5fac; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code {
+  font-family: "Cascadia Code", Consolas, monospace; font-size: .86em;
+  background: #f0f1f3; padding: .1em .38em; border-radius: 4px; color: #b02a5b;
+}
+table {
+  border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem;
+  display: block; overflow-x: auto;
+}
+th, td { border: 1px solid #dcdbd5; padding: .5rem .7rem; text-align: left; vertical-align: top; }
+th { background: #eef2f7; font-weight: 600; color: #17324f; }
+tbody tr:nth-child(even) { background: #fafafa; }
+blockquote {
+  margin: 1rem 0; padding: .6rem 1.1rem; border-left: 4px solid #2a78d6;
+  background: #f5f8fd; color: #33445a; border-radius: 0 6px 6px 0;
+}
+blockquote p { margin: .3rem 0; }
+img { max-width: 100%; height: auto; display: block; margin: 1.2rem auto;
+      border: 1px solid #e2e1db; border-radius: 6px; }
+hr { border: none; border-top: 1px solid #e2e1db; margin: 2rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .25rem 0; }
+footer { max-width: 900px; margin: 1rem auto 0; color: #8a8a84; font-size: .8rem; text-align: center; }
+@media print {
+  body { background: #fff; padding: 0; }
+  main { border: none; box-shadow: none; max-width: none; padding: 0; }
+  h2 { page-break-after: avoid; }
+  table, img, blockquote { page-break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<main>
+<h1>Informe de Integridad — MedXpertQA (Paso 1 · Tarea B)</h1>
+<ul>
+<li><strong>Generado</strong>: 2026-07-10T09:03:28.376134+00:00 (UTC)</li>
+<li><strong>Repositorio</strong>: <code>TsinghuaC3I/MedXpertQA</code> (revisión <code>7e7c465a68eb2b866926bfa59c8c9d17a8daba65</code>)</li>
+<li><strong>Script</strong>: <code>src/verify.py</code> (solo lectura; no corrige anomalías)</li>
+</ul>
+<blockquote>
+<p>Este informe verifica la fiabilidad del dato antes del análisis. Las anomalías se <strong>documentan y marcan</strong>, no se corrigen automáticamente.</p>
+</blockquote>
+<blockquote>
+<p><strong>VEREDICTO: 1 anomalía(s) detectada(s)</strong> — ver sección final. El dato es utilizable pero requiere tu decisión sobre los puntos marcados.</p>
+</blockquote>
+<h2>1. Recuentos de registros</h2>
+<table>
+<thead>
+<tr>
+  <th>Fichero</th>
+  <th style="text-align:right">Registros</th>
+  <th style="text-align:right">Esperado</th>
+  <th style="text-align:center">Estado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>MM/test.jsonl</code></td>
+  <td style="text-align:right">2000</td>
+  <td style="text-align:right">2000</td>
+  <td style="text-align:center">OK</td>
+</tr>
+<tr>
+  <td><code>MM/dev.jsonl</code></td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">—</td>
+  <td style="text-align:center">OK</td>
+</tr>
+<tr>
+  <td><code>Text/test.jsonl</code></td>
+  <td style="text-align:right">2450</td>
+  <td style="text-align:right">2450</td>
+  <td style="text-align:center">OK</td>
+</tr>
+<tr>
+  <td><code>Text/dev.jsonl</code></td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">—</td>
+  <td style="text-align:center">OK</td>
+</tr>
+</tbody>
+</table>
+<p>Los <code>dev.jsonl</code> (few-shot) se reportan como informativos: no hay recuento canónico esperado más allá de que sean no vacíos.</p>
+<h2>2. Referencias imagen ↔ archivos (solo MM)</h2>
+<ul>
+<li>Imágenes en disco (<code>data/processed/images/</code>): <strong>2858</strong></li>
+<li>Referencias desde MM/test: <strong>2852</strong> (2852 únicas)</li>
+<li>Referencias desde MM/dev: <strong>6</strong></li>
+<li>Referencias únicas (test ∪ dev): <strong>2858</strong></li>
+<li>Faltantes en disco referenciadas por <strong>test</strong>: <strong>0</strong></li>
+<li>Faltantes en disco referenciadas por <strong>dev</strong>: <strong>0</strong></li>
+<li>Huérfanas por exceso (en disco, sin referencia en test ∪ dev): <strong>0</strong></li>
+<li>Imágenes referenciadas por más de una pregunta: <strong>0</strong></li>
+</ul>
+<p>Correspondencia <strong>exacta</strong>: cada una de las 2852 referencias de test y las 6 de dev tiene su fichero, y los 2858 ficheros están todos referenciados (2852 test + 6 dev = 2858).</p>
+<h2>3. Integridad de las imágenes (Pillow <code>verify()</code>)</h2>
+<ul>
+<li>Imágenes verificadas: <strong>2858</strong></li>
+<li>Corruptas / no decodificables: <strong>0</strong></li>
+</ul>
+<p>Todas las imágenes superan la verificación estructural de Pillow.</p>
+<h2>4. Unicidad de identificadores (<code>id</code>)</h2>
+<table>
+<thead>
+<tr>
+  <th>Subconjunto</th>
+  <th style="text-align:right">Registros</th>
+  <th style="text-align:right">IDs únicos</th>
+  <th style="text-align:right">Duplicados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>MM/test</code></td>
+  <td style="text-align:right">2000</td>
+  <td style="text-align:right">2000</td>
+  <td style="text-align:right">0</td>
+</tr>
+<tr>
+  <td><code>MM/dev</code></td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">0</td>
+</tr>
+<tr>
+  <td><code>Text/test</code></td>
+  <td style="text-align:right">2450</td>
+  <td style="text-align:right">2450</td>
+  <td style="text-align:right">0</td>
+</tr>
+<tr>
+  <td><code>Text/dev</code></td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">5</td>
+  <td style="text-align:right">0</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Solapamiento de IDs test↔dev en MM: <strong>0</strong> (ninguno)</li>
+<li>Solapamiento de IDs test↔dev en Text: <strong>0</strong> (ninguno)</li>
+</ul>
+<h2>5. Campos obligatorios y coherencia</h2>
+<p>Campos obligatorios exigidos: <code>id</code>, <code>question</code>, <code>options</code>, <code>label</code>, <code>body_system</code>, <code>medical_task</code>, <code>question_type</code> (y <code>images</code> no vacío en MM).</p>
+<table>
+<thead>
+<tr>
+  <th>Subconjunto</th>
+  <th style="text-align:right">Sin campos oblig.</th>
+  <th style="text-align:right">label∉options</th>
+  <th style="text-align:right">nº opciones incorrecto</th>
+  <th style="text-align:right">MM sin imágenes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>MM/test</code></td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+</tr>
+<tr>
+  <td><code>MM/dev</code></td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+</tr>
+<tr>
+  <td><code>Text/test</code></td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">—</td>
+</tr>
+<tr>
+  <td><code>Text/dev</code></td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">0</td>
+  <td style="text-align:right">—</td>
+</tr>
+</tbody>
+</table>
+<h3>5b. Coherencia de vocabulario de metadatos (dev ↔ test)</h3>
+<table>
+<thead>
+<tr>
+  <th>Modalidad · campo</th>
+  <th>Valores en test</th>
+  <th>Valores solo en dev</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><code>MM</code> · <code>body_system</code></td>
+  <td>Cardiovascular, Digestive, Endocrine, Integumentary, Lymphatic, Muscular, Nervous, Other / NA, Reproductive, Respiratory, Skeletal, Urinary</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td><code>MM</code> · <code>medical_task</code></td>
+  <td>Basic Science, Diagnosis, Treatment</td>
+  <td>Basic Medicine</td>
+</tr>
+<tr>
+  <td><code>MM</code> · <code>question_type</code></td>
+  <td>Reasoning, Understanding</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td><code>Text</code> · <code>body_system</code></td>
+  <td>Cardiovascular, Digestive, Endocrine, Integumentary, Lymphatic, Muscular, Nervous, Other / NA, Reproductive, Respiratory, Skeletal, Urinary</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td><code>Text</code> · <code>medical_task</code></td>
+  <td>Basic Science, Diagnosis, Treatment</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td><code>Text</code> · <code>question_type</code></td>
+  <td>Reasoning, Understanding</td>
+  <td>—</td>
+</tr>
+</tbody>
+</table>
+<h2>Anomalías detectadas (marcadas para decisión, NO corregidas)</h2>
+<ul>
+<li>⚠ MM: <code>medical_task</code> tiene valores en dev ausentes en test: ['Basic Medicine'].</li>
+</ul>
+
+</main>
+<footer>MedXpertQA · TFG · generado desde 00_integridad.md por src/render_reports.py</footer>
+</body>
+</html>

@@ -1,0 +1,2001 @@
+id,n_images,explicit_mention,matched_terms,options_reference_figure,n_options_ref
+MM-0,2,True,figure;radiograph;shown,False,0
+MM-1,2,False,,False,0
+MM-2,1,True,figure;shown,False,0
+MM-3,1,True,figure;image,False,0
+MM-4,1,True,arrow,False,0
+MM-5,1,True,figure;radiograph,False,0
+MM-6,1,True,figure;image;radiograph,False,0
+MM-7,6,True,figure;imaging;radiograph;shown,True,5
+MM-8,1,True,image;shown,False,0
+MM-9,1,False,,False,0
+MM-10,1,True,image,False,0
+MM-11,5,True,figure;image;radiograph,True,5
+MM-12,1,True,the following,False,0
+MM-13,2,True,figure;radiograph;the following,False,0
+MM-14,1,False,,False,0
+MM-15,1,True,figure;illustrated,False,0
+MM-16,1,False,,False,0
+MM-17,1,False,,False,0
+MM-18,5,True,figure;the following,True,5
+MM-19,1,False,,False,0
+MM-20,1,True,the following,False,0
+MM-21,1,False,,False,0
+MM-22,1,True,graph;the following,False,0
+MM-23,1,True,figure;imaging;shown,False,0
+MM-24,1,True,figure;radiograph;shown,False,0
+MM-25,5,False,,False,0
+MM-26,1,False,,False,0
+MM-27,1,True,depicted;image,False,0
+MM-28,1,True,figure;shown;the following,False,0
+MM-29,1,False,,False,0
+MM-30,1,True,image;imaging;shown,False,0
+MM-31,1,False,,False,0
+MM-32,1,True,shown,False,0
+MM-33,1,True,figure;image;imaging;scan;shown,False,0
+MM-34,3,True,image;imaging;shown,False,0
+MM-35,2,True,figure;radiograph;shown,False,0
+MM-36,1,True,figure;radiograph,False,0
+MM-37,1,True,image;shown,False,0
+MM-38,1,True,arrow;micrograph,False,0
+MM-39,1,True,figure;radiograph;the following,False,0
+MM-40,1,False,,False,0
+MM-41,1,False,,False,0
+MM-42,2,True,figure;radiograph;scan;shown,False,0
+MM-43,3,True,arrow;figure;image;the following,False,0
+MM-44,5,True,figure;image;radiograph,True,5
+MM-45,1,False,,False,0
+MM-46,1,True,image,True,1
+MM-47,1,False,,False,0
+MM-48,1,False,,False,0
+MM-49,1,False,,False,0
+MM-50,1,True,the following,False,0
+MM-51,1,True,image,False,0
+MM-52,2,True,figure;shown,False,0
+MM-53,1,False,,False,0
+MM-54,1,True,figure;shown,False,0
+MM-55,1,True,image,False,0
+MM-56,1,True,shown;the following,False,0
+MM-57,1,True,radiograph,False,0
+MM-58,1,True,figure;radiograph;the following,False,0
+MM-59,1,True,figure;shown,False,0
+MM-60,1,True,figure,False,0
+MM-61,1,False,,False,0
+MM-62,1,True,figure,False,0
+MM-63,1,False,,False,0
+MM-64,1,True,figure,False,0
+MM-65,1,False,,False,0
+MM-66,2,True,depicted;figure;shown,False,0
+MM-67,1,False,,False,0
+MM-68,2,True,figure;shown,False,0
+MM-69,1,True,figure,False,0
+MM-70,1,True,figure;shown,False,0
+MM-71,1,False,,False,0
+MM-72,1,True,image,False,0
+MM-73,1,True,figure;radiograph;scan,False,0
+MM-74,1,False,,False,0
+MM-75,1,True,figure;shown,False,0
+MM-76,2,True,figure;radiograph;shown;the following,False,0
+MM-77,2,True,figure;image;radiograph;shown,False,0
+MM-78,1,False,,False,0
+MM-79,1,True,figure;panel;shown;the following,True,1
+MM-80,1,False,,False,0
+MM-81,2,True,image;imaging;shown,False,0
+MM-82,1,True,radiograph,False,0
+MM-83,1,True,figure,False,0
+MM-84,1,True,scan;the following,False,0
+MM-85,1,True,shown;tracing,False,0
+MM-86,1,False,,False,0
+MM-87,1,True,figure,False,0
+MM-88,1,True,arrow;imaging;micrograph,False,0
+MM-89,1,False,,False,0
+MM-90,1,False,,False,0
+MM-91,1,True,figure;shown,False,0
+MM-92,1,True,figure;scan,False,0
+MM-93,1,True,image;shown,False,0
+MM-94,3,True,figure;image,False,0
+MM-95,1,False,,False,0
+MM-96,1,True,figure;radiograph;the following,False,0
+MM-97,2,True,depicted;figure;shown;the following,False,0
+MM-98,1,False,,False,0
+MM-99,1,False,,False,0
+MM-100,1,False,,False,0
+MM-101,1,True,figure,False,0
+MM-102,1,True,shown;the following,False,0
+MM-103,1,True,scan;shown,False,0
+MM-104,2,True,image;the following,False,0
+MM-105,1,True,image;shown;the following,False,0
+MM-106,1,True,figure;radiograph;shown,False,0
+MM-107,1,True,the following,False,0
+MM-108,2,True,figure;radiograph;shown,False,0
+MM-109,1,True,figure;radiograph;shown;the following,False,0
+MM-110,1,True,depicted;figure;the following,False,0
+MM-111,1,True,figure;the following,False,0
+MM-112,1,True,figure;radiograph,False,0
+MM-113,1,False,,False,0
+MM-114,1,True,image,False,0
+MM-115,1,True,figure;shown;the following,False,0
+MM-116,1,False,,False,0
+MM-117,1,True,shown,False,0
+MM-118,2,True,figure;imaging;shown,False,0
+MM-119,2,True,depicted;figure;scan;shown,False,0
+MM-120,2,True,depicted;figure,False,0
+MM-121,1,True,image,False,0
+MM-122,6,True,figure;image;shown;the following,True,5
+MM-123,1,True,figure;shown;the following,False,0
+MM-124,1,True,figure;shown,False,0
+MM-125,5,True,figure;radiograph;scan;shown,False,0
+MM-126,1,False,,False,0
+MM-127,1,True,photograph,False,0
+MM-128,1,True,radiograph,False,0
+MM-129,1,True,image,False,0
+MM-130,1,True,imaging;scan,False,0
+MM-131,2,True,figure;radiograph;scan;the following,False,0
+MM-132,1,True,image,False,0
+MM-133,1,True,the following,False,0
+MM-134,2,True,figure;shown,False,0
+MM-135,1,False,,False,0
+MM-136,1,True,figure;radiograph;shown,False,0
+MM-137,1,True,image,False,0
+MM-138,3,True,image;imaging,False,0
+MM-139,1,False,,False,0
+MM-140,1,True,radiograph;shown,False,0
+MM-141,1,True,image,False,0
+MM-142,1,True,depicted;figure;the following,False,0
+MM-143,1,False,,False,0
+MM-144,1,False,,False,0
+MM-145,1,True,figure;shown,False,0
+MM-146,1,True,imaging;the following,False,0
+MM-147,1,True,figure;the following,False,0
+MM-148,2,True,radiograph,False,0
+MM-149,1,True,figure;shown,False,0
+MM-150,2,True,figure;illustrated;shown,False,0
+MM-151,1,True,figure;image;shown;the following,False,0
+MM-152,1,False,,False,0
+MM-153,1,True,shown,False,0
+MM-154,2,True,figure;imaging,False,0
+MM-155,1,True,figure;the following,False,0
+MM-156,1,True,figure;shown;the following,False,0
+MM-157,3,False,,False,0
+MM-158,3,True,depicted;figure,False,0
+MM-159,1,True,shown;the following,False,0
+MM-160,2,True,imaging,False,0
+MM-161,1,True,image;the following,False,0
+MM-162,1,True,figure;radiograph,False,0
+MM-163,1,True,figure;shown,False,0
+MM-164,1,False,,False,0
+MM-165,1,False,,False,0
+MM-166,1,True,the following,False,0
+MM-167,1,False,,False,0
+MM-168,1,False,,False,0
+MM-169,2,True,figure;radiograph,False,0
+MM-170,2,True,arrow;depicted,False,0
+MM-171,1,True,scan,False,0
+MM-172,1,True,arrow,False,0
+MM-173,1,False,,False,0
+MM-174,1,True,image,False,0
+MM-175,1,True,radiograph;the following,False,0
+MM-176,1,True,figure;shown;the following,False,0
+MM-177,1,False,,False,0
+MM-178,1,True,figure;shown;the following,False,0
+MM-179,1,False,,False,0
+MM-180,1,True,figure;the following,False,0
+MM-181,1,False,,False,0
+MM-182,1,True,figure;shown,False,0
+MM-183,1,True,figure;radiograph,False,0
+MM-184,1,False,,False,0
+MM-185,1,True,figure;shown,False,0
+MM-186,1,True,image;shown;the following,False,0
+MM-187,1,True,figure;scan;the following,False,0
+MM-188,1,True,figure;the following,False,0
+MM-189,1,True,the following,False,0
+MM-190,1,True,figure,False,0
+MM-191,1,True,figure;image,False,0
+MM-192,2,True,figure;radiograph;shown,False,0
+MM-193,1,True,imaging;the following,False,0
+MM-194,1,False,,False,0
+MM-195,1,True,scan,False,0
+MM-196,1,True,the following,False,0
+MM-197,1,True,figure;radiograph;the following,False,0
+MM-198,1,True,the following,False,0
+MM-199,1,False,,False,0
+MM-200,1,True,figure;shown,False,0
+MM-201,2,True,figure;image;radiograph,False,0
+MM-202,1,True,figure;image,False,0
+MM-203,1,True,figure,False,0
+MM-204,1,True,as seen;figure,False,0
+MM-205,1,True,tracing,False,0
+MM-206,2,True,figure;image,False,0
+MM-207,1,False,,False,0
+MM-208,1,True,image,False,0
+MM-209,1,True,imaging;radiograph;the following,False,0
+MM-210,1,True,image,False,0
+MM-211,1,False,,False,0
+MM-212,2,True,figure;radiograph;the following,False,0
+MM-213,1,True,figure;shown,False,0
+MM-214,1,True,depicted;figure,False,0
+MM-215,1,False,,False,0
+MM-216,1,False,,False,0
+MM-217,3,True,figure;radiograph;shown,False,0
+MM-218,1,False,,False,0
+MM-219,1,True,figure;imaging;radiograph;shown,False,0
+MM-220,1,False,,False,0
+MM-221,1,True,shown,False,0
+MM-222,1,True,figure;illustrated,False,0
+MM-223,1,True,imaging;scan,False,0
+MM-224,1,True,figure;scan;shown;the following,False,0
+MM-225,2,True,figure;radiograph;shown,False,0
+MM-226,1,True,figure;shown,False,0
+MM-227,1,True,figure,False,0
+MM-228,1,False,,False,0
+MM-229,1,True,figure;shown,False,0
+MM-230,1,True,figure;shown,False,0
+MM-231,1,True,shown,False,0
+MM-232,1,True,image;shown,False,0
+MM-233,1,True,figure,False,0
+MM-234,1,True,figure;imaging;radiograph;scan,False,0
+MM-235,1,True,figure;shown,False,0
+MM-236,1,True,tracing,False,0
+MM-237,1,True,image;radiograph,False,0
+MM-238,1,True,figure;shown,False,0
+MM-239,3,True,figure;imaging;radiograph,False,0
+MM-240,1,True,graph;the following,False,0
+MM-241,5,True,figure;illustrated,True,5
+MM-242,1,True,shown,False,0
+MM-243,1,False,,False,0
+MM-244,1,False,,False,0
+MM-245,1,True,figure;panel;radiograph,False,0
+MM-246,1,True,figure;shown,False,0
+MM-247,1,True,depicted;figure,False,0
+MM-248,1,True,imaging;the following,False,0
+MM-249,1,True,figure;the following,False,0
+MM-250,2,True,figure,False,0
+MM-251,1,False,,False,0
+MM-252,2,True,image,False,0
+MM-253,1,True,image;shown,False,0
+MM-254,1,True,figure;shown,False,0
+MM-255,1,True,figure;radiograph;shown,False,0
+MM-256,6,True,figure;imaging;radiograph,False,0
+MM-257,1,False,,False,0
+MM-258,1,True,the following,False,0
+MM-259,1,True,graph;illustrated;the following,False,0
+MM-260,1,True,figure;radiograph,False,0
+MM-261,1,False,,False,0
+MM-262,1,True,figure;radiograph;the following,False,0
+MM-263,1,False,,False,0
+MM-264,2,True,imaging;the following,False,0
+MM-265,2,True,radiograph,False,0
+MM-266,1,True,figure;imaging;shown,False,0
+MM-267,5,True,figure,True,5
+MM-268,1,True,imaging,False,0
+MM-269,1,False,,False,0
+MM-270,3,True,figure;radiograph;shown,False,0
+MM-271,1,False,,False,0
+MM-272,1,False,,False,0
+MM-273,2,True,figure;the following,True,5
+MM-274,1,True,imaging,False,0
+MM-275,1,True,figure;radiograph,False,0
+MM-276,1,True,the following,False,0
+MM-277,1,True,figure;shown;the following,False,0
+MM-278,1,True,figure,False,0
+MM-279,5,True,depicted;figure,False,0
+MM-280,6,True,arrow;depicted;figure;radiograph;shown,True,5
+MM-281,1,True,figure;radiograph,False,0
+MM-282,6,True,figure;imaging;shown,True,5
+MM-283,1,True,imaging;scan,False,0
+MM-284,2,True,scan,False,0
+MM-285,1,True,image,False,0
+MM-286,1,True,figure;scan;shown,False,0
+MM-287,5,True,depicted;figure,True,5
+MM-288,1,False,,False,0
+MM-289,1,True,image;panel;the following,False,0
+MM-290,1,True,image;shown;the following,False,0
+MM-291,2,True,the following,False,0
+MM-292,1,True,figure;shown,False,0
+MM-293,1,True,figure;radiograph;shown,False,0
+MM-294,1,True,image;shown,False,0
+MM-295,1,True,shown,False,0
+MM-296,1,True,figure;shown;the following,False,0
+MM-297,1,True,figure;shown,False,0
+MM-298,1,True,arrow;depicted;image,False,0
+MM-299,1,True,figure;shown,False,0
+MM-300,1,True,figure;scan;shown,False,0
+MM-301,5,True,figure;image;radiograph,True,5
+MM-302,1,True,radiograph,False,0
+MM-303,1,True,shown,False,0
+MM-304,5,True,figure;the following,True,5
+MM-305,1,False,,False,0
+MM-306,1,True,image;the following,False,0
+MM-307,6,True,figure;radiograph,True,5
+MM-308,1,True,figure;scan;shown,False,0
+MM-309,1,True,figure;shown,False,0
+MM-310,1,False,,False,0
+MM-311,2,True,image;imaging;shown,True,2
+MM-312,3,True,figure;shown,False,0
+MM-313,1,False,,False,0
+MM-314,1,False,,False,0
+MM-315,1,True,figure,False,0
+MM-316,2,True,as seen;figure;radiograph;the following,False,0
+MM-317,1,True,figure;image;shown;the following,False,0
+MM-318,2,True,figure;shown;the following,True,3
+MM-319,4,True,depicted;figure;image,False,0
+MM-320,1,True,micrograph;the following,False,0
+MM-321,1,True,figure;shown,False,0
+MM-322,1,True,photograph;shown,False,0
+MM-323,1,True,imaging,False,0
+MM-324,1,True,the following,False,0
+MM-325,2,True,scan;the following,False,0
+MM-326,1,True,figure;radiograph,False,0
+MM-327,1,True,figure;shown,False,0
+MM-328,1,True,image,False,0
+MM-329,1,False,,False,0
+MM-330,1,False,,False,0
+MM-331,1,False,,False,0
+MM-332,2,True,figure;shown,False,0
+MM-333,1,True,figure;shown,False,0
+MM-334,1,True,figure;shown,False,0
+MM-335,1,True,figure;image,False,0
+MM-336,1,False,,False,0
+MM-337,3,True,figure;radiograph;shown,False,0
+MM-338,1,False,,False,0
+MM-339,2,True,image;scan;shown,False,0
+MM-340,2,True,figure;radiograph;shown,False,0
+MM-341,1,False,,False,0
+MM-342,6,True,figure;shown;the following,True,5
+MM-343,1,False,,False,0
+MM-344,1,True,figure;shown,False,0
+MM-345,1,True,imaging;the following,False,0
+MM-346,1,True,figure,False,0
+MM-347,1,False,,False,0
+MM-348,1,False,,False,0
+MM-349,2,True,figure;radiograph;shown,False,0
+MM-350,3,True,figure;photograph;radiograph;shown;slide;the following,False,0
+MM-351,1,True,figure;shown,False,0
+MM-352,1,True,panel;shown,False,0
+MM-353,1,True,figure;scan;shown,False,0
+MM-354,1,False,,False,0
+MM-355,2,True,as seen;figure;radiograph,False,0
+MM-356,5,True,figure;radiograph,True,5
+MM-357,1,False,,False,0
+MM-358,1,True,image;shown,False,0
+MM-359,1,False,,False,0
+MM-360,1,False,,False,0
+MM-361,1,True,figure;shown,False,0
+MM-362,1,True,figure;shown,False,0
+MM-363,1,False,,False,0
+MM-364,4,True,figure;image,False,0
+MM-365,1,True,the following,False,0
+MM-366,1,True,image;shown;the following,False,0
+MM-367,1,True,the following,False,0
+MM-368,1,True,image;panel;shown,True,2
+MM-369,4,True,image,False,0
+MM-370,5,True,figure;radiograph;the following,True,5
+MM-371,1,True,figure,False,0
+MM-372,1,True,figure;shown;the following,False,0
+MM-373,1,True,image,False,0
+MM-374,5,True,figure;imaging;radiograph;shown,False,0
+MM-375,1,True,the following,False,0
+MM-376,1,True,micrograph;the following,False,0
+MM-377,1,False,,False,0
+MM-378,1,True,figure;shown,False,0
+MM-379,1,False,,False,0
+MM-380,1,False,,False,0
+MM-381,2,False,,False,0
+MM-382,3,True,figure;radiograph;shown,False,0
+MM-383,5,True,figure;radiograph;scan;shown,False,0
+MM-384,1,False,,False,0
+MM-385,1,False,,False,0
+MM-386,1,True,figure;imaging;radiograph;the following,False,0
+MM-387,1,True,figure;image,False,0
+MM-388,1,True,scan;shown;the following,False,0
+MM-389,2,True,figure;illustrated;the following,False,0
+MM-390,2,True,image,False,0
+MM-391,1,True,scan,False,0
+MM-392,1,True,arrow;figure,False,0
+MM-393,1,True,figure;radiograph,False,0
+MM-394,1,False,,False,0
+MM-395,1,False,,False,0
+MM-396,1,True,the following,False,0
+MM-397,1,True,figure;radiograph;shown,False,0
+MM-398,1,True,image,False,0
+MM-399,1,True,the following,False,0
+MM-400,2,True,figure;radiograph;scan;shown,False,0
+MM-401,2,False,,False,0
+MM-402,1,True,the following,False,0
+MM-403,1,True,image;shown;the following,False,0
+MM-404,4,True,figure;radiograph,False,0
+MM-405,1,False,,False,0
+MM-406,2,True,image,False,0
+MM-407,1,True,figure;panel;radiograph;the following,False,0
+MM-408,1,True,the following,False,0
+MM-409,1,True,figure;radiograph;the following,False,0
+MM-410,1,True,depicted;figure,False,0
+MM-411,2,True,figure;radiograph;shown;the following,True,5
+MM-412,1,False,,False,0
+MM-413,1,True,figure;the following,False,0
+MM-414,1,True,the following,False,0
+MM-415,2,True,figure;shown;the following,False,0
+MM-416,1,True,image;shown;the following,False,0
+MM-417,1,True,figure;radiograph,False,0
+MM-418,1,True,shown,False,0
+MM-419,1,True,figure,False,0
+MM-420,2,True,image;shown;the following,False,0
+MM-421,2,True,image;radiograph;shown,False,0
+MM-422,1,True,figure;radiograph,False,0
+MM-423,5,True,figure;image;the following,True,5
+MM-424,1,True,image;shown;the following,False,0
+MM-425,1,True,the following,False,0
+MM-426,1,True,depicted;figure,False,0
+MM-427,1,True,figure,False,0
+MM-428,1,True,figure;shown;the following,False,0
+MM-429,2,True,image,False,0
+MM-430,2,True,figure;image;imaging;radiograph;shown,False,0
+MM-431,1,False,,False,0
+MM-432,1,True,depicted;figure,False,0
+MM-433,2,True,figure;radiograph,False,0
+MM-434,1,False,,False,0
+MM-435,1,False,,False,0
+MM-436,1,True,image;imaging;shown;the following,False,0
+MM-437,1,False,,False,0
+MM-438,1,True,figure;radiograph,False,0
+MM-439,1,True,image;shown;the following,False,0
+MM-440,1,True,figure;shown,False,0
+MM-441,1,True,figure;photograph;the following,False,0
+MM-442,1,True,figure,False,0
+MM-443,1,True,figure;the following,False,0
+MM-444,1,True,scan,False,0
+MM-445,1,False,,False,0
+MM-446,1,True,radiograph,False,0
+MM-447,1,True,shown,False,0
+MM-448,1,True,figure;shown,False,0
+MM-449,1,False,,False,0
+MM-450,1,False,,False,0
+MM-451,1,False,,False,0
+MM-452,1,True,figure;scan;shown,False,0
+MM-453,4,True,figure;image;radiograph;scan;shown;slide,False,0
+MM-454,2,True,figure;radiograph,False,0
+MM-455,1,True,the following,False,0
+MM-456,1,True,depicted;figure,False,0
+MM-457,2,True,figure;radiograph;scan;shown,False,0
+MM-458,3,True,figure;illustrated;shown,False,0
+MM-459,1,True,image;shown;the following,False,0
+MM-460,1,True,image;shown,False,0
+MM-461,1,False,,False,0
+MM-462,1,True,figure;shown,False,0
+MM-463,1,False,,False,0
+MM-464,1,True,figure;shown,False,0
+MM-465,2,True,figure;radiograph;shown,False,0
+MM-466,1,False,,False,0
+MM-467,1,True,depicted;image,False,0
+MM-468,1,True,radiograph;shown,False,0
+MM-469,1,True,depicted;figure,False,0
+MM-470,1,True,figure;panel;shown,False,0
+MM-471,1,True,depicted;figure;shown,False,0
+MM-472,1,True,image;radiograph;the following,False,0
+MM-473,5,True,figure;the following,True,5
+MM-474,1,True,figure;shown;the following,False,0
+MM-475,1,True,figure;image,False,0
+MM-476,1,True,radiograph;scan,False,0
+MM-477,1,True,figure;scan;the following,False,0
+MM-478,1,False,,False,0
+MM-479,1,True,the following,False,0
+MM-480,1,True,figure;scan;shown;the following,False,0
+MM-481,2,True,figure;imaging;radiograph;shown;the following,False,0
+MM-482,1,True,figure,False,0
+MM-483,1,True,the following,False,0
+MM-484,1,True,depicted;figure,False,0
+MM-485,1,True,the following,False,0
+MM-486,1,True,the following,False,0
+MM-487,1,False,,False,0
+MM-488,1,True,photograph;shown,False,0
+MM-489,1,True,image,False,0
+MM-490,1,True,figure;shown,False,0
+MM-491,1,False,,False,0
+MM-492,1,True,image;scan,False,0
+MM-493,1,True,figure;scan,False,0
+MM-494,4,True,figure;radiograph;shown;the following,False,0
+MM-495,1,True,figure;radiograph,False,0
+MM-496,2,True,figure,False,0
+MM-497,1,True,shown,False,0
+MM-498,2,True,figure,False,0
+MM-499,1,True,figure,False,0
+MM-500,1,True,depicted;figure,False,0
+MM-501,1,True,depicted;figure,False,0
+MM-502,1,True,scan;the following,False,0
+MM-503,1,True,figure;radiograph;shown,False,0
+MM-504,1,True,shown,False,0
+MM-505,2,True,radiograph,False,0
+MM-506,1,True,figure;radiograph;shown,False,0
+MM-507,1,True,arrow;figure;shown;the following,False,0
+MM-508,1,True,image;shown,False,0
+MM-509,1,True,graph,False,0
+MM-510,1,True,figure;shown,False,0
+MM-511,1,True,image,False,0
+MM-512,1,True,panel,False,0
+MM-513,1,True,the following,False,0
+MM-514,1,True,depicted;image,False,0
+MM-515,1,True,the following,False,0
+MM-516,1,True,depicted;figure,False,0
+MM-517,1,True,image;shown;the following,False,0
+MM-518,1,False,,False,0
+MM-519,1,True,figure,False,0
+MM-520,2,True,figure;imaging;shown,False,0
+MM-521,1,True,shown,False,0
+MM-522,1,True,figure;shown;the following,False,0
+MM-523,1,False,,False,0
+MM-524,2,True,depicted;figure;shown,False,0
+MM-525,2,True,figure;radiograph;shown,False,0
+MM-526,1,True,figure;imaging,False,0
+MM-527,1,False,,False,0
+MM-528,1,True,the following,False,0
+MM-529,1,True,image,False,0
+MM-530,3,False,,False,0
+MM-531,1,True,graph,False,0
+MM-532,1,False,,False,0
+MM-533,1,True,micrograph;shown,False,0
+MM-534,3,True,figure;shown,False,0
+MM-535,1,False,,False,0
+MM-536,2,True,depicted;figure;radiograph;shown,False,0
+MM-537,1,True,as seen;figure;the following,False,0
+MM-538,1,True,figure;shown;the following,False,0
+MM-539,1,True,shown;the following;tracing,False,0
+MM-540,1,False,,False,0
+MM-541,1,True,figure;the following,False,0
+MM-542,1,True,image;shown;the following,False,0
+MM-543,1,False,,False,0
+MM-544,1,True,depicted;figure;the following,False,0
+MM-545,1,True,figure;the following,False,0
+MM-546,3,True,figure;image;radiograph;shown,False,0
+MM-547,5,True,figure;radiograph,True,5
+MM-548,6,True,figure;image;radiograph,False,0
+MM-549,1,False,,False,0
+MM-550,1,False,,False,0
+MM-551,2,True,image;shown,False,0
+MM-552,2,True,figure;radiograph,False,0
+MM-553,1,True,radiograph,False,0
+MM-554,1,False,,False,0
+MM-555,1,True,figure;image,False,0
+MM-556,2,True,image;the following,False,0
+MM-557,1,True,radiograph;shown,False,0
+MM-558,1,True,figure;radiograph;shown,False,0
+MM-559,1,True,image,False,0
+MM-560,1,False,,False,0
+MM-561,1,False,,False,0
+MM-562,2,True,image,False,0
+MM-563,1,False,,False,0
+MM-564,2,True,image;radiograph;shown;the following,False,0
+MM-565,4,True,figure;panel;shown,False,0
+MM-566,1,True,figure;image;the following,False,0
+MM-567,2,False,,False,0
+MM-568,1,True,imaging;radiograph;shown,False,0
+MM-569,1,True,image;imaging;shown,False,0
+MM-570,1,False,,False,0
+MM-571,1,True,figure,False,0
+MM-572,1,True,image;radiograph;shown;the following,False,0
+MM-573,1,True,figure,False,0
+MM-574,1,True,figure;imaging;shown,False,0
+MM-575,1,True,imaging,False,0
+MM-576,1,True,scan,False,0
+MM-577,2,True,figure;shown,False,0
+MM-578,1,True,figure;shown,False,0
+MM-579,1,True,the following,False,0
+MM-580,1,True,figure;shown;the following,False,0
+MM-581,1,False,,False,0
+MM-582,4,True,figure;image;radiograph;shown,False,0
+MM-583,1,True,scan;the following,False,0
+MM-584,2,True,figure;shown,False,0
+MM-585,1,False,,False,0
+MM-586,1,True,image;the following,False,0
+MM-587,3,True,depicted;figure,False,0
+MM-588,2,True,figure;radiograph;shown,False,0
+MM-589,1,True,figure;radiograph,False,0
+MM-590,1,True,image;scan,False,0
+MM-591,1,True,radiograph,False,0
+MM-592,1,True,figure,False,0
+MM-593,1,True,scan,False,0
+MM-594,1,True,figure;shown;the following,False,0
+MM-595,1,True,the following,False,0
+MM-596,1,False,,False,0
+MM-597,2,True,figure;shown,False,0
+MM-598,1,False,,False,0
+MM-599,1,True,radiograph;shown;the following,False,0
+MM-600,5,True,figure;image;radiograph,True,5
+MM-601,1,True,arrow;the following;tracing,False,0
+MM-602,2,True,radiograph,False,0
+MM-603,5,True,depicted;figure,True,5
+MM-604,2,True,figure;photograph;radiograph;the following,False,0
+MM-605,1,True,image;scan,False,0
+MM-606,2,True,image;shown,False,0
+MM-607,4,True,figure,False,0
+MM-608,1,True,figure,False,0
+MM-609,5,True,figure;the following,True,5
+MM-610,1,True,figure;radiograph;shown,False,0
+MM-611,3,True,figure;radiograph,False,0
+MM-612,1,True,shown,False,0
+MM-613,2,False,,False,0
+MM-614,1,True,figure;shown,False,0
+MM-615,1,True,figure,False,0
+MM-616,1,False,,False,0
+MM-617,3,True,figure;photograph;radiograph;shown,False,0
+MM-618,4,True,figure;image;imaging;radiograph,False,0
+MM-619,1,True,radiograph,False,0
+MM-620,2,True,figure;the following,False,0
+MM-621,1,True,arrow;the following,False,0
+MM-622,4,True,figure;image;radiograph,False,0
+MM-623,1,True,figure;graph,False,0
+MM-624,1,False,,False,0
+MM-625,1,False,,False,0
+MM-626,1,True,image;shown,False,0
+MM-627,1,False,,False,0
+MM-628,1,False,,False,0
+MM-629,1,True,image;shown;the following,False,0
+MM-630,1,False,,False,0
+MM-631,1,True,figure;radiograph;shown;the following,False,0
+MM-632,1,True,image;shown;the following,False,0
+MM-633,1,True,the following,False,0
+MM-634,2,True,figure;radiograph;scan,False,0
+MM-635,1,True,the following,False,0
+MM-636,3,True,figure,False,0
+MM-637,1,True,scan;the following,False,0
+MM-638,1,False,,False,0
+MM-639,1,True,figure;shown,False,0
+MM-640,1,False,,False,0
+MM-641,1,True,figure;shown,False,0
+MM-642,2,True,figure;image;radiograph,False,0
+MM-643,1,False,,False,0
+MM-644,6,True,figure;image;shown;the following,True,5
+MM-645,1,False,,False,0
+MM-646,1,True,figure,False,0
+MM-647,1,False,,False,0
+MM-648,1,True,figure;radiograph;the following,False,0
+MM-649,1,False,,False,0
+MM-650,1,True,figure;radiograph,False,0
+MM-651,1,True,figure,False,0
+MM-652,1,False,,False,0
+MM-653,1,True,image,False,0
+MM-654,1,True,arrow;image,False,0
+MM-655,2,False,,False,0
+MM-656,1,False,,False,0
+MM-657,2,True,figure;radiograph;shown,False,0
+MM-658,1,True,graph,False,0
+MM-659,1,False,,False,0
+MM-660,1,False,,False,0
+MM-661,1,False,,False,0
+MM-662,1,False,,False,0
+MM-663,2,True,image;imaging;scan;shown,False,0
+MM-664,1,True,figure;radiograph;shown,False,0
+MM-665,1,True,image,False,0
+MM-666,1,True,depicted;figure;radiograph,False,0
+MM-667,1,True,figure;radiograph;shown,False,0
+MM-668,1,True,shown;the following,False,0
+MM-669,1,True,depicted;figure,False,0
+MM-670,1,False,,False,0
+MM-671,1,True,figure;radiograph,False,0
+MM-672,1,False,,False,0
+MM-673,5,True,figure;radiograph,True,5
+MM-674,1,False,,False,0
+MM-675,1,True,figure;shown;the following,False,0
+MM-676,1,True,scan,False,0
+MM-677,1,True,figure,False,0
+MM-678,1,True,shown,False,0
+MM-679,1,True,the following,False,0
+MM-680,1,False,,False,0
+MM-681,1,True,figure;shown,False,0
+MM-682,1,True,image;shown;the following,False,0
+MM-683,1,False,,False,0
+MM-684,5,True,figure;image,True,5
+MM-685,1,False,,False,0
+MM-686,1,False,,False,0
+MM-687,2,True,figure,False,0
+MM-688,1,False,,False,0
+MM-689,1,True,image;shown;tracing,False,0
+MM-690,1,True,figure,False,0
+MM-691,2,True,figure;image,False,0
+MM-692,1,True,figure;the following,False,0
+MM-693,1,True,figure;shown,False,0
+MM-694,1,False,,False,0
+MM-695,1,False,,False,0
+MM-696,2,True,figure;radiograph,False,0
+MM-697,1,True,the following,False,0
+MM-698,1,True,figure;shown;the following,False,0
+MM-699,1,False,,False,0
+MM-700,1,False,,False,0
+MM-701,1,True,figure;radiograph;shown,False,0
+MM-702,1,True,the following,False,0
+MM-703,1,True,photograph,False,0
+MM-704,1,True,the following,False,0
+MM-705,1,False,,False,0
+MM-706,1,True,figure;shown;the following,False,0
+MM-707,1,True,figure;shown,False,0
+MM-708,1,True,figure;shown;the following,False,0
+MM-709,1,False,,False,0
+MM-710,1,True,figure,False,0
+MM-711,2,True,figure;radiograph;shown,False,0
+MM-712,1,True,image;shown,False,0
+MM-713,1,True,the following,False,0
+MM-714,1,True,figure;shown,False,0
+MM-715,1,False,,False,0
+MM-716,1,True,figure;shown,False,0
+MM-717,1,True,shown,False,0
+MM-718,1,True,figure,False,0
+MM-719,1,False,,False,0
+MM-720,1,True,figure;shown,False,0
+MM-721,1,True,arrow;the following,False,0
+MM-722,1,False,,False,0
+MM-723,1,False,,False,0
+MM-724,1,True,the following,False,0
+MM-725,3,True,figure;radiograph;shown;the following,False,0
+MM-726,1,False,,False,0
+MM-727,1,True,figure;imaging,False,0
+MM-728,5,True,figure;the following,True,5
+MM-729,1,True,figure;shown,False,0
+MM-730,1,True,figure,False,0
+MM-731,1,True,figure;the following,False,0
+MM-732,1,True,figure;shown,False,0
+MM-733,1,True,image,False,0
+MM-734,1,True,figure;shown;the following,False,0
+MM-735,1,True,image;shown,False,0
+MM-736,1,True,figure;radiograph;shown,False,0
+MM-737,1,True,scan,False,0
+MM-738,1,True,image;the following,False,0
+MM-739,1,True,figure;the following,False,0
+MM-740,1,False,,False,0
+MM-741,1,True,image;shown,False,0
+MM-742,1,True,shown,False,0
+MM-743,1,True,depicted;figure,False,0
+MM-744,6,True,figure;radiograph;shown;the following,True,5
+MM-745,1,True,figure;shown;the following,False,0
+MM-746,1,True,shown,False,0
+MM-747,1,True,figure;shown,False,0
+MM-748,1,False,,False,0
+MM-749,1,False,,False,0
+MM-750,1,True,the following,False,0
+MM-751,1,True,image;the following,False,0
+MM-752,1,False,,False,0
+MM-753,1,True,as seen;figure;radiograph;the following,False,0
+MM-754,1,True,radiograph,False,0
+MM-755,1,True,depicted;figure;the following,False,0
+MM-756,1,True,shown,False,0
+MM-757,1,True,figure;radiograph,False,0
+MM-758,5,True,figure;illustrated,True,5
+MM-759,1,False,,False,0
+MM-760,1,True,figure;shown,False,0
+MM-761,1,True,figure;radiograph,False,0
+MM-762,1,False,,False,0
+MM-763,1,False,,False,0
+MM-764,1,True,arrow;figure;shown,False,0
+MM-765,1,True,figure;shown,False,0
+MM-766,2,False,,False,0
+MM-767,3,True,figure;radiograph;the following,False,0
+MM-768,1,True,figure;radiograph;shown,False,0
+MM-769,1,True,image;radiograph;shown,False,0
+MM-770,1,True,the following,False,0
+MM-771,2,True,depicted;figure,False,0
+MM-772,2,True,image,False,0
+MM-773,1,True,depicted;figure,False,0
+MM-774,2,True,the following,False,0
+MM-775,1,True,figure;radiograph;shown;the following,False,0
+MM-776,5,True,figure;shown,True,5
+MM-777,1,True,figure;shown,False,0
+MM-778,1,True,image;the following,False,0
+MM-779,1,True,shown;the following,False,0
+MM-780,1,True,the following,False,0
+MM-781,1,True,figure;scan,False,0
+MM-782,1,True,the following,False,0
+MM-783,1,False,,False,0
+MM-784,1,False,,False,0
+MM-785,5,True,figure;radiograph;scan;shown,False,0
+MM-786,1,True,figure;shown,False,0
+MM-787,1,True,figure,False,0
+MM-788,1,True,figure;radiograph;shown;the following,False,0
+MM-789,1,True,image;imaging,False,0
+MM-790,3,True,figure;imaging;radiograph;scan;shown,False,0
+MM-791,1,False,,False,0
+MM-792,1,True,figure;radiograph;shown,False,0
+MM-793,1,True,arrow;image;shown,False,0
+MM-794,1,True,figure;shown,False,0
+MM-795,3,False,,False,0
+MM-796,1,True,figure;scan,False,0
+MM-797,1,False,,False,0
+MM-798,1,True,the following,False,0
+MM-799,1,False,,False,0
+MM-800,1,True,figure;shown,False,0
+MM-801,1,True,arrow;image;the following,False,0
+MM-802,1,True,figure;shown,False,0
+MM-803,1,True,figure;imaging;radiograph;scan;shown,False,0
+MM-804,1,False,,False,0
+MM-805,2,True,figure;radiograph;shown,False,0
+MM-806,2,True,figure;radiograph,False,0
+MM-807,6,True,figure;shown;the following,True,5
+MM-808,3,True,the following,False,0
+MM-809,1,False,,False,0
+MM-810,1,True,figure;shown,False,0
+MM-811,1,True,figure;shown,False,0
+MM-812,1,True,as seen;figure;the following,False,0
+MM-813,1,False,,False,0
+MM-814,1,True,figure,False,0
+MM-815,2,True,figure;slide;the following,False,0
+MM-816,1,False,,False,0
+MM-817,1,True,figure;radiograph,False,0
+MM-818,1,True,radiograph,False,0
+MM-819,1,True,figure;shown,False,0
+MM-820,1,True,radiograph,False,0
+MM-821,1,True,shown,False,0
+MM-822,1,True,figure;photograph;shown,False,0
+MM-823,1,True,figure;radiograph;shown;the following,False,0
+MM-824,1,True,figure;shown,False,0
+MM-825,1,True,tracing,False,0
+MM-826,1,True,figure;radiograph;shown;the following,False,0
+MM-827,1,False,,False,0
+MM-828,1,True,figure;radiograph;shown,False,0
+MM-829,1,False,,False,0
+MM-830,2,True,figure;radiograph;scan,False,0
+MM-831,1,True,figure;scan,False,0
+MM-832,1,False,,False,0
+MM-833,1,True,as seen;figure;radiograph;the following,False,0
+MM-834,1,True,figure;radiograph;shown,False,0
+MM-835,2,True,depicted;figure,False,0
+MM-836,2,True,figure;radiograph;shown,False,0
+MM-837,1,True,figure;shown,False,0
+MM-838,1,True,shown;the following,False,0
+MM-839,4,True,image,False,0
+MM-840,1,False,,False,0
+MM-841,1,True,figure;shown,False,0
+MM-842,2,False,,False,0
+MM-843,1,True,imaging,False,0
+MM-844,1,True,arrow;figure;shown,False,0
+MM-845,1,True,image,False,0
+MM-846,1,True,depicted;figure;the following,False,0
+MM-847,1,True,figure;radiograph;scan;shown;the following,False,0
+MM-848,1,True,figure;shown;the following,False,0
+MM-849,1,True,depicted;figure;the following,False,0
+MM-850,1,True,shown;the following,False,0
+MM-851,1,True,image;shown,False,0
+MM-852,1,True,figure;radiograph;the following,False,0
+MM-853,1,True,image,False,0
+MM-854,2,True,figure;radiograph;shown,False,0
+MM-855,1,True,figure;shown,False,0
+MM-856,1,True,image;shown,False,0
+MM-857,5,True,figure;illustrated,True,5
+MM-858,1,False,,False,0
+MM-859,1,False,,False,0
+MM-860,1,True,figure;shown,False,0
+MM-861,1,False,,False,0
+MM-862,2,True,image;radiograph,False,0
+MM-863,1,True,image;the following,False,0
+MM-864,2,True,figure;radiograph;shown,False,0
+MM-865,1,False,,False,0
+MM-866,1,True,scan;the following,False,0
+MM-867,1,True,figure;radiograph;shown,False,0
+MM-868,2,False,,False,0
+MM-869,1,False,,False,0
+MM-870,1,True,figure,False,0
+MM-871,1,False,,False,0
+MM-872,1,True,image;shown;the following,False,0
+MM-873,1,True,figure,False,0
+MM-874,2,True,imaging;the following,False,0
+MM-875,5,True,figure;illustrated;shown,True,5
+MM-876,1,True,figure;shown;the following,False,0
+MM-877,1,True,figure,False,0
+MM-878,1,True,the following,False,0
+MM-879,1,True,the following,False,0
+MM-880,1,True,figure;radiograph;shown,False,0
+MM-881,1,True,image;shown,False,0
+MM-882,1,True,figure,False,0
+MM-883,1,True,figure;shown;the following,False,0
+MM-884,2,False,,False,0
+MM-885,1,False,,False,0
+MM-886,1,True,figure;imaging;shown,False,0
+MM-887,5,True,figure;the following,True,5
+MM-888,1,True,figure;scan,False,0
+MM-889,1,False,,False,0
+MM-890,5,True,figure,True,5
+MM-891,1,True,radiograph;shown,False,0
+MM-892,2,True,figure;radiograph;shown;the following,False,0
+MM-893,2,True,the following,False,0
+MM-894,1,True,figure;shown,False,0
+MM-895,1,False,,False,0
+MM-896,1,False,,False,0
+MM-897,1,True,image,False,0
+MM-898,1,True,figure;shown,False,0
+MM-899,1,True,arrow;figure;radiograph;the following,False,0
+MM-900,1,False,,False,0
+MM-901,1,True,figure;radiograph;the following,False,0
+MM-902,1,True,imaging;shown,False,0
+MM-903,1,True,figure;shown;the following,False,0
+MM-904,1,False,,False,0
+MM-905,2,True,figure,False,0
+MM-906,1,True,figure;shown,False,0
+MM-907,2,True,figure;radiograph,False,0
+MM-908,1,True,figure;shown;the following,False,0
+MM-909,1,True,figure;graph,False,0
+MM-910,1,False,,False,0
+MM-911,1,True,figure;scan,False,0
+MM-912,1,True,figure;image,False,0
+MM-913,1,True,the following,False,0
+MM-914,2,True,scan,False,0
+MM-915,1,False,,False,0
+MM-916,1,False,,False,0
+MM-917,1,False,,False,0
+MM-918,1,True,the following,False,0
+MM-919,1,True,figure;the following,False,0
+MM-920,1,True,figure;shown,False,0
+MM-921,6,True,figure;image;radiograph;shown;the following,True,5
+MM-922,1,True,figure,False,0
+MM-923,1,False,,False,0
+MM-924,1,True,the following,False,0
+MM-925,1,True,figure;imaging;radiograph;the following,False,0
+MM-926,1,False,,False,0
+MM-927,1,True,image;panel;shown,True,3
+MM-928,1,True,the following,False,0
+MM-929,1,False,,False,0
+MM-930,1,False,,False,0
+MM-931,1,True,figure;radiograph;shown,False,0
+MM-932,1,True,figure;shown,False,0
+MM-933,1,False,,False,0
+MM-934,3,True,figure;shown,False,0
+MM-935,1,True,radiograph,False,0
+MM-936,2,True,radiograph,False,0
+MM-937,1,True,figure;radiograph;scan;shown,False,0
+MM-938,1,False,,False,0
+MM-939,1,True,figure;radiograph;shown,False,0
+MM-940,1,False,,False,0
+MM-941,2,True,arrow;figure;imaging;radiograph;scan,False,0
+MM-942,1,True,image;shown;the following,False,0
+MM-943,1,True,figure;shown,False,0
+MM-944,1,True,the following,False,0
+MM-945,1,True,figure;shown,False,0
+MM-946,1,True,figure;radiograph;shown,False,0
+MM-947,1,True,figure;shown,False,0
+MM-948,1,True,depicted;figure,False,0
+MM-949,1,True,image;radiograph;shown,False,0
+MM-950,1,False,,False,0
+MM-951,1,False,,False,0
+MM-952,1,False,,False,0
+MM-953,1,True,the following,False,0
+MM-954,1,False,,False,0
+MM-955,1,False,,False,0
+MM-956,2,True,figure;radiograph;shown,False,0
+MM-957,1,True,figure;radiograph;shown;the following,False,0
+MM-958,1,True,the following,False,0
+MM-959,1,False,,False,0
+MM-960,1,True,figure,False,0
+MM-961,1,True,figure;radiograph,False,0
+MM-962,3,True,figure;illustrated;radiograph,False,0
+MM-963,1,False,,False,0
+MM-964,1,False,,False,0
+MM-965,1,True,depicted;figure,False,0
+MM-966,1,True,image;imaging;radiograph,False,0
+MM-967,1,True,depicted;figure;imaging;scan,False,0
+MM-968,1,True,figure;imaging,False,0
+MM-969,1,False,,False,0
+MM-970,1,True,shown,False,0
+MM-971,1,True,figure,False,0
+MM-972,5,True,figure;radiograph,True,5
+MM-973,2,True,image,False,0
+MM-974,1,True,figure;shown;the following,False,0
+MM-975,1,True,figure;radiograph;shown,False,0
+MM-976,1,False,,False,0
+MM-977,1,True,the following,False,0
+MM-978,1,False,,False,0
+MM-979,2,True,figure;radiograph;the following,False,0
+MM-980,1,True,figure;imaging,False,0
+MM-981,1,True,figure;radiograph,False,0
+MM-982,1,True,figure;scan,False,0
+MM-983,1,True,figure;shown;the following,False,0
+MM-984,1,True,figure;the following,False,0
+MM-985,1,True,image,False,0
+MM-986,1,True,figure;the following,False,0
+MM-987,1,True,figure;radiograph;the following,False,0
+MM-988,1,True,figure,False,0
+MM-989,2,True,figure;shown;the following,False,0
+MM-990,1,True,figure;radiograph,False,0
+MM-991,1,True,figure;the following,False,0
+MM-992,1,True,figure;scan;shown;the following,False,0
+MM-993,1,False,,False,0
+MM-994,1,True,figure;the following,False,0
+MM-995,3,True,figure,False,0
+MM-996,1,True,figure;radiograph,False,0
+MM-997,1,True,imaging;shown;the following,False,0
+MM-998,1,False,,False,0
+MM-999,1,True,image;shown;the following,False,0
+MM-1000,1,False,,False,0
+MM-1001,5,True,radiograph,False,0
+MM-1002,1,True,figure;shown,False,0
+MM-1003,1,True,figure;radiograph;the following,False,0
+MM-1004,1,False,,False,0
+MM-1005,1,False,,False,0
+MM-1006,1,True,the following,False,0
+MM-1007,2,False,,False,0
+MM-1008,1,True,shown,False,0
+MM-1009,1,True,the following,False,0
+MM-1010,1,True,image;shown,False,0
+MM-1011,1,False,,False,0
+MM-1012,2,True,figure;imaging;radiograph,False,0
+MM-1013,1,False,,False,0
+MM-1014,1,True,figure;shown,False,0
+MM-1015,1,True,figure;scan;shown,False,0
+MM-1016,2,False,,False,0
+MM-1017,3,True,figure;radiograph;shown,False,0
+MM-1018,1,False,,False,0
+MM-1019,1,False,,False,0
+MM-1020,1,True,figure;the following,False,0
+MM-1021,1,False,,False,0
+MM-1022,1,True,imaging;shown,False,0
+MM-1023,1,True,graph,False,0
+MM-1024,1,True,radiograph,False,0
+MM-1025,5,True,figure;the following,True,5
+MM-1026,2,True,figure,False,0
+MM-1027,1,True,radiograph;shown,False,0
+MM-1028,1,True,figure;radiograph,False,0
+MM-1029,1,True,figure;radiograph;the following,False,0
+MM-1030,1,True,the following,False,0
+MM-1031,6,True,depicted;figure;illustrated;panel;shown,True,5
+MM-1032,1,False,,False,0
+MM-1033,1,True,figure,False,0
+MM-1034,1,True,image;the following,False,0
+MM-1035,2,True,figure,False,0
+MM-1036,1,True,figure;scan;shown,False,0
+MM-1037,1,True,figure;imaging;radiograph;scan;shown,False,0
+MM-1038,1,False,,False,0
+MM-1039,1,True,radiograph,False,0
+MM-1040,1,False,,False,0
+MM-1041,1,True,figure,False,0
+MM-1042,1,True,imaging;shown;the following,False,0
+MM-1043,1,False,,False,0
+MM-1044,1,True,the following,False,0
+MM-1045,2,True,figure;shown,False,0
+MM-1046,1,True,figure;shown,False,0
+MM-1047,1,False,,False,0
+MM-1048,1,True,figure;shown,False,0
+MM-1049,1,False,,False,0
+MM-1050,2,True,figure;scan,False,0
+MM-1051,1,True,figure;radiograph;shown,False,0
+MM-1052,1,True,figure;shown;the following,False,0
+MM-1053,1,True,figure;imaging;radiograph;the following,False,0
+MM-1054,1,False,,False,0
+MM-1055,1,False,,False,0
+MM-1056,4,True,the following,False,0
+MM-1057,1,True,figure;shown,False,0
+MM-1058,1,True,image;radiograph;shown,False,0
+MM-1059,1,True,imaging;the following,False,0
+MM-1060,1,False,,False,0
+MM-1061,2,True,figure;imaging;radiograph;shown,False,0
+MM-1062,2,True,image;radiograph,False,0
+MM-1063,1,True,depicted;image;the following,False,0
+MM-1064,1,True,radiograph;scan;the following,False,0
+MM-1065,1,True,figure;radiograph;the following,False,0
+MM-1066,1,True,radiograph,False,0
+MM-1067,1,True,figure;shown,False,0
+MM-1068,2,True,image;shown,False,0
+MM-1069,3,True,figure;image;imaging;shown,False,0
+MM-1070,1,True,figure,False,0
+MM-1071,1,True,figure,False,0
+MM-1072,1,True,figure;radiograph,False,0
+MM-1073,2,True,figure;radiograph;the following,False,0
+MM-1074,3,False,,False,0
+MM-1075,1,True,the following,False,0
+MM-1076,1,True,figure,False,0
+MM-1077,1,True,figure;radiograph;shown,False,0
+MM-1078,2,True,image;shown;the following,False,0
+MM-1079,1,False,,False,0
+MM-1080,1,True,figure;shown,False,0
+MM-1081,1,True,figure;scan;shown,False,0
+MM-1082,1,False,,False,0
+MM-1083,5,True,image,False,0
+MM-1084,1,True,figure;shown,False,0
+MM-1085,1,True,shown,False,0
+MM-1086,1,True,figure;radiograph;shown,False,0
+MM-1087,1,True,figure;shown;the following,False,0
+MM-1088,1,True,figure;shown,False,0
+MM-1089,1,True,image;imaging,False,0
+MM-1090,1,True,figure;the following,False,0
+MM-1091,1,True,figure;shown;the following,False,0
+MM-1092,2,True,arrow,False,0
+MM-1093,1,True,figure,False,0
+MM-1094,1,True,figure;scan;shown,False,0
+MM-1095,1,True,figure,False,0
+MM-1096,2,True,figure;the following,False,0
+MM-1097,6,True,figure;image;radiograph;shown,False,0
+MM-1098,1,False,,False,0
+MM-1099,5,True,figure;panel;the following,True,5
+MM-1100,1,True,figure;shown;the following,False,0
+MM-1101,1,True,as seen;figure;the following,False,0
+MM-1102,2,False,,False,0
+MM-1103,1,True,radiograph,False,0
+MM-1104,1,False,,False,0
+MM-1105,1,False,,False,0
+MM-1106,1,True,figure,False,0
+MM-1107,4,True,figure;radiograph,False,0
+MM-1108,2,True,figure;shown,False,0
+MM-1109,1,False,,False,0
+MM-1110,1,False,,False,0
+MM-1111,5,True,image;radiograph,False,0
+MM-1112,1,True,figure;imaging;radiograph;scan;the following,False,0
+MM-1113,1,True,figure;shown;the following,False,0
+MM-1114,1,True,figure;shown,False,0
+MM-1115,1,True,figure;image;scan,False,0
+MM-1116,1,True,figure;shown,False,0
+MM-1117,1,True,figure;the following,False,0
+MM-1118,1,True,scan,False,0
+MM-1119,1,True,shown,False,0
+MM-1120,5,True,figure;imaging;radiograph;scan,False,0
+MM-1121,1,True,radiograph,False,0
+MM-1122,1,True,figure;panel;radiograph;the following,False,0
+MM-1123,1,True,figure;radiograph,False,0
+MM-1124,4,True,the following,False,0
+MM-1125,5,True,scan,False,0
+MM-1126,1,True,arrow;figure;shown,False,0
+MM-1127,1,True,the following,False,0
+MM-1128,1,True,figure;shown,False,0
+MM-1129,1,True,figure;shown,False,0
+MM-1130,1,True,shown,False,0
+MM-1131,5,True,figure;the following,True,5
+MM-1132,1,True,figure;shown;the following,False,0
+MM-1133,1,True,image;shown,False,0
+MM-1134,1,True,figure;shown,False,0
+MM-1135,1,True,micrograph;the following,False,0
+MM-1136,1,True,figure;radiograph;shown,False,0
+MM-1137,3,True,image,False,0
+MM-1138,5,True,figure;shown,True,5
+MM-1139,1,True,figure;shown,False,0
+MM-1140,1,True,image,False,0
+MM-1141,1,True,imaging;shown,False,0
+MM-1142,5,True,figure;image,True,5
+MM-1143,1,True,the following,False,0
+MM-1144,3,True,as seen;figure;imaging,False,0
+MM-1145,1,True,figure;radiograph,False,0
+MM-1146,1,True,figure;the following,False,0
+MM-1147,5,True,figure;the following,True,5
+MM-1148,2,True,depicted;image;radiograph;shown,False,0
+MM-1149,1,True,figure;radiograph;scan,False,0
+MM-1150,1,True,figure;the following,False,0
+MM-1151,1,True,as seen;figure;radiograph;the following,False,0
+MM-1152,3,True,figure;radiograph;the following,False,0
+MM-1153,6,True,figure;radiograph;shown;the following,True,5
+MM-1154,1,True,figure;radiograph;the following,False,0
+MM-1155,1,True,figure;radiograph;shown,False,0
+MM-1156,1,True,figure;imaging,False,0
+MM-1157,2,True,as seen;figure;image;the following,False,0
+MM-1158,1,True,figure;radiograph;scan;shown,False,0
+MM-1159,1,True,figure;shown;the following,False,0
+MM-1160,1,True,image;shown,False,0
+MM-1161,1,True,imaging;radiograph;scan;the following,False,0
+MM-1162,1,True,the following,False,0
+MM-1163,2,True,figure;radiograph;shown,False,0
+MM-1164,1,True,image;imaging;radiograph;shown;the following,False,0
+MM-1165,2,True,tracing,False,0
+MM-1166,1,True,figure,False,0
+MM-1167,1,True,the following,False,0
+MM-1168,1,False,,False,0
+MM-1169,3,True,image,False,0
+MM-1170,1,False,,False,0
+MM-1171,1,False,,False,0
+MM-1172,1,False,,False,0
+MM-1173,2,True,figure;shown,False,0
+MM-1174,1,True,arrow,False,0
+MM-1175,1,False,,False,0
+MM-1176,1,True,figure,False,0
+MM-1177,1,False,,False,0
+MM-1178,1,True,figure;the following,False,0
+MM-1179,1,False,,False,0
+MM-1180,1,False,,False,0
+MM-1181,2,True,image;shown,False,0
+MM-1182,1,True,figure;radiograph,False,0
+MM-1183,1,True,figure;shown;the following,False,0
+MM-1184,1,True,micrograph;shown;the following,False,0
+MM-1185,5,True,figure;radiograph;shown,True,5
+MM-1186,1,True,depicted;image;the following,False,0
+MM-1187,1,True,shown;the following,False,0
+MM-1188,4,True,image;the following,False,0
+MM-1189,5,True,depicted;figure,True,5
+MM-1190,1,True,figure;shown,False,0
+MM-1191,2,True,figure;shown,False,0
+MM-1192,1,True,depicted;figure,True,1
+MM-1193,1,True,figure;scan;shown,False,0
+MM-1194,1,True,photograph,False,0
+MM-1195,1,True,figure;the following,False,0
+MM-1196,5,True,depicted;figure,True,5
+MM-1197,1,True,figure;imaging,False,0
+MM-1198,1,True,figure;shown,False,0
+MM-1199,1,False,,False,0
+MM-1200,2,True,figure;image;radiograph;shown,False,0
+MM-1201,1,True,figure;shown;the following,False,0
+MM-1202,2,True,image,False,0
+MM-1203,5,True,figure;the following,True,5
+MM-1204,1,True,radiograph;the following,False,0
+MM-1205,1,True,arrow;figure;the following,False,0
+MM-1206,1,False,,False,0
+MM-1207,1,False,,False,0
+MM-1208,1,True,image;shown;the following,False,0
+MM-1209,2,False,,False,0
+MM-1210,1,True,as seen;figure;radiograph;the following,False,0
+MM-1211,1,True,depicted;figure;the following,False,0
+MM-1212,1,True,image;radiograph;scan;shown;the following,False,0
+MM-1213,1,False,,False,0
+MM-1214,1,False,,False,0
+MM-1215,1,True,depicted;figure,False,0
+MM-1216,1,False,,False,0
+MM-1217,1,True,figure;shown,False,0
+MM-1218,2,True,depicted;figure;radiograph,False,0
+MM-1219,1,False,,False,0
+MM-1220,1,False,,False,0
+MM-1221,1,False,,False,0
+MM-1222,1,True,figure;radiograph,False,0
+MM-1223,1,True,the following,False,0
+MM-1224,1,False,,False,0
+MM-1225,1,True,figure;shown;the following,False,0
+MM-1226,1,True,figure,False,0
+MM-1227,1,True,radiograph,False,0
+MM-1228,1,True,figure;radiograph,False,0
+MM-1229,1,True,figure;radiograph,False,0
+MM-1230,1,True,figure;the following,False,0
+MM-1231,2,True,figure;scan;shown;the following,False,0
+MM-1232,1,False,,False,0
+MM-1233,1,True,image;shown,False,0
+MM-1234,2,True,the following,False,0
+MM-1235,4,True,depicted;figure;shown,False,0
+MM-1236,2,True,figure;radiograph,False,0
+MM-1237,2,True,figure;radiograph;the following,False,0
+MM-1238,1,True,shown,False,0
+MM-1239,1,False,,False,0
+MM-1240,2,False,,False,0
+MM-1241,1,True,figure;the following,False,0
+MM-1242,1,False,,False,0
+MM-1243,3,True,figure;radiograph,False,0
+MM-1244,1,True,scan,False,0
+MM-1245,2,True,figure;radiograph;shown,False,0
+MM-1246,1,True,image;shown,False,0
+MM-1247,1,True,shown,False,0
+MM-1248,1,True,figure;radiograph;shown,False,0
+MM-1249,1,True,figure;the following,False,0
+MM-1250,1,True,shown;the following,False,0
+MM-1251,1,True,arrow;image;imaging,True,1
+MM-1252,1,False,,False,0
+MM-1253,3,True,figure,False,0
+MM-1254,1,True,image;scan,False,0
+MM-1255,3,True,figure,False,0
+MM-1256,1,True,the following,False,0
+MM-1257,1,True,figure;radiograph;shown;the following,False,0
+MM-1258,1,True,the following,False,0
+MM-1259,1,False,,False,0
+MM-1260,1,True,shown,False,0
+MM-1261,1,False,,False,0
+MM-1262,1,False,,False,0
+MM-1263,2,True,figure;radiograph,False,0
+MM-1264,1,True,the following,False,0
+MM-1265,1,False,,False,0
+MM-1266,2,True,figure;radiograph,False,0
+MM-1267,1,True,figure;radiograph;shown,False,0
+MM-1268,1,True,figure;imaging;radiograph;shown,False,0
+MM-1269,1,True,micrograph;the following,False,0
+MM-1270,1,True,figure;imaging;shown,False,0
+MM-1271,1,False,,False,0
+MM-1272,1,True,the following,False,0
+MM-1273,1,True,figure;shown;the following,False,0
+MM-1274,5,True,figure;image;radiograph;the following,False,0
+MM-1275,1,True,figure;shown;the following,False,0
+MM-1276,1,False,,False,0
+MM-1277,1,False,,False,0
+MM-1278,1,True,figure;shown;the following,False,0
+MM-1279,1,True,the following,False,0
+MM-1280,1,True,figure,False,0
+MM-1281,1,True,figure;shown,False,0
+MM-1282,1,True,the following,False,0
+MM-1283,1,True,image;shown;the following,False,0
+MM-1284,1,False,,False,0
+MM-1285,1,True,figure;radiograph;shown;the following,False,0
+MM-1286,1,True,scan;the following,False,0
+MM-1287,1,True,figure;shown,False,0
+MM-1288,1,False,,False,0
+MM-1289,1,True,image;shown,False,0
+MM-1290,1,True,image;shown;slide,False,0
+MM-1291,2,True,figure;image;radiograph;shown,False,0
+MM-1292,1,True,figure;shown,False,0
+MM-1293,1,True,figure;radiograph;the following,False,0
+MM-1294,1,True,radiograph,False,0
+MM-1295,1,True,radiograph,False,0
+MM-1296,1,True,figure;scan;shown;the following,False,0
+MM-1297,1,True,figure;scan,False,0
+MM-1298,1,True,figure;panel;shown,False,0
+MM-1299,1,True,figure;shown,False,0
+MM-1300,1,True,figure;radiograph,False,0
+MM-1301,1,True,image,False,0
+MM-1302,3,True,figure;radiograph;the following,False,0
+MM-1303,4,True,arrow;figure;radiograph;shown,False,0
+MM-1304,1,True,illustrated;the following,False,0
+MM-1305,2,True,figure;radiograph;shown,False,0
+MM-1306,1,True,image,False,0
+MM-1307,1,True,figure;the following,False,0
+MM-1308,1,True,figure;shown,False,0
+MM-1309,1,True,figure,False,0
+MM-1310,5,True,figure;radiograph;the following,True,5
+MM-1311,2,True,figure;shown,False,0
+MM-1312,1,True,the following,False,0
+MM-1313,3,True,depicted;figure;imaging;radiograph;scan,False,0
+MM-1314,2,True,figure;radiograph,False,0
+MM-1315,1,True,figure;the following,False,0
+MM-1316,2,True,figure;radiograph;the following,False,0
+MM-1317,1,True,figure,False,0
+MM-1318,2,True,depicted;figure;image;shown,False,0
+MM-1319,1,True,image,False,0
+MM-1320,1,True,figure,False,0
+MM-1321,1,True,figure;image,False,0
+MM-1322,1,True,as seen;figure;radiograph;the following,False,0
+MM-1323,1,True,figure;radiograph;shown,False,0
+MM-1324,2,True,figure;radiograph;the following,False,0
+MM-1325,1,True,depicted;image;radiograph,False,0
+MM-1326,1,True,radiograph;shown;the following,False,0
+MM-1327,1,True,figure;shown;the following,False,0
+MM-1328,3,True,figure;shown,False,0
+MM-1329,6,True,figure;radiograph;shown,True,5
+MM-1330,1,True,imaging,False,0
+MM-1331,1,True,the following,False,0
+MM-1332,1,True,figure;shown,False,0
+MM-1333,5,True,figure;the following,True,5
+MM-1334,1,True,figure,False,0
+MM-1335,1,True,depicted;figure;the following,False,0
+MM-1336,1,True,image;scan,False,0
+MM-1337,1,True,image;shown;the following,False,0
+MM-1338,2,True,figure;photograph;shown,False,0
+MM-1339,1,False,,False,0
+MM-1340,1,False,,False,0
+MM-1341,1,True,depicted;image,False,0
+MM-1342,1,True,figure;radiograph;shown,False,0
+MM-1343,1,True,figure;shown,False,0
+MM-1344,1,False,,False,0
+MM-1345,1,False,,False,0
+MM-1346,1,True,figure,False,0
+MM-1347,2,True,image;imaging;shown,False,0
+MM-1348,1,True,arrow,False,0
+MM-1349,1,True,image;scan;shown,False,0
+MM-1350,1,True,image,False,0
+MM-1351,1,True,figure;image;radiograph;shown,False,0
+MM-1352,6,True,figure;radiograph;shown;the following,True,5
+MM-1353,1,True,shown,False,0
+MM-1354,2,True,image;shown,False,0
+MM-1355,1,False,,False,0
+MM-1356,1,True,depicted;figure;the following,False,0
+MM-1357,1,True,image,False,0
+MM-1358,1,True,the following,False,0
+MM-1359,1,False,,False,0
+MM-1360,1,True,depicted;figure;the following,False,0
+MM-1361,1,True,radiograph,False,0
+MM-1362,1,True,figure;shown,False,0
+MM-1363,1,True,figure;radiograph,False,0
+MM-1364,1,True,figure;shown,False,0
+MM-1365,1,False,,False,0
+MM-1366,6,True,figure;shown,True,5
+MM-1367,1,True,image,False,0
+MM-1368,1,False,,False,0
+MM-1369,5,True,figure,True,5
+MM-1370,1,True,figure;shown,False,0
+MM-1371,1,True,arrow;the following,False,0
+MM-1372,1,True,graph;shown;the following,False,0
+MM-1373,1,True,figure;radiograph,False,0
+MM-1374,1,True,figure;radiograph,False,0
+MM-1375,1,True,figure;shown,False,0
+MM-1376,2,True,figure;radiograph;shown,False,0
+MM-1377,1,True,figure,False,0
+MM-1378,1,False,,False,0
+MM-1379,1,True,figure;radiograph;shown,False,0
+MM-1380,1,True,figure;image,False,0
+MM-1381,1,False,,False,0
+MM-1382,1,True,figure;shown;the following,False,0
+MM-1383,2,False,,False,0
+MM-1384,1,True,figure;imaging;shown;the following,False,0
+MM-1385,1,True,pictured,False,0
+MM-1386,1,True,figure;scan;shown,False,0
+MM-1387,2,True,depicted;figure;radiograph;the following,False,0
+MM-1388,1,False,,False,0
+MM-1389,5,True,figure;the following,True,5
+MM-1390,1,False,,False,0
+MM-1391,1,True,figure;scan;shown,False,0
+MM-1392,1,False,,False,0
+MM-1393,1,True,image,False,0
+MM-1394,5,True,figure;image;radiograph,True,5
+MM-1395,1,True,figure;shown;the following,False,0
+MM-1396,1,False,,False,0
+MM-1397,2,True,figure;photograph;radiograph,False,0
+MM-1398,1,True,image;radiograph;shown;the following,False,0
+MM-1399,5,True,as seen;figure;radiograph;shown,False,0
+MM-1400,1,True,shown;the following,False,0
+MM-1401,1,True,figure;shown;the following;tracing,False,0
+MM-1402,1,True,figure,False,0
+MM-1403,1,True,figure,False,0
+MM-1404,1,True,figure;shown,False,0
+MM-1405,1,False,,False,0
+MM-1406,1,True,scan,False,0
+MM-1407,1,True,arrow;shown,False,0
+MM-1408,1,True,figure;radiograph;scan;shown,False,0
+MM-1409,1,False,,False,0
+MM-1410,1,True,radiograph,False,0
+MM-1411,1,False,,False,0
+MM-1412,2,True,image;the following,False,0
+MM-1413,2,True,image;imaging;shown,False,0
+MM-1414,2,True,figure;radiograph;the following,False,0
+MM-1415,1,True,figure;radiograph;the following,False,0
+MM-1416,1,False,,False,0
+MM-1417,1,True,image;shown,False,0
+MM-1418,1,True,figure;shown,False,0
+MM-1419,1,False,,False,0
+MM-1420,1,False,,False,0
+MM-1421,1,True,shown;the following,False,0
+MM-1422,1,True,image;the following,False,0
+MM-1423,1,True,figure;shown,False,0
+MM-1424,1,True,radiograph,False,0
+MM-1425,1,False,,False,0
+MM-1426,1,True,the following,False,0
+MM-1427,1,False,,False,0
+MM-1428,1,True,figure;shown,False,0
+MM-1429,1,False,,False,0
+MM-1430,1,True,figure;shown,False,0
+MM-1431,2,True,figure;image;radiograph;the following,False,0
+MM-1432,1,False,,False,0
+MM-1433,1,True,figure;radiograph;shown,False,0
+MM-1434,1,True,image;the following,False,0
+MM-1435,1,True,figure,False,0
+MM-1436,1,True,photograph,False,0
+MM-1437,1,True,imaging,False,0
+MM-1438,1,True,figure;shown,False,0
+MM-1439,1,True,figure,False,0
+MM-1440,1,True,figure;shown;tracing,False,0
+MM-1441,1,False,,False,0
+MM-1442,1,True,the following,False,0
+MM-1443,1,True,depicted;figure,False,0
+MM-1444,1,True,the following,False,0
+MM-1445,1,True,figure;image;shown;the following,False,0
+MM-1446,1,False,,False,0
+MM-1447,1,True,figure;radiograph,False,0
+MM-1448,1,True,figure;radiograph;shown,False,0
+MM-1449,1,True,figure;shown;the following,False,0
+MM-1450,1,True,figure;radiograph,False,0
+MM-1451,1,False,,False,0
+MM-1452,1,True,shown;the following,False,0
+MM-1453,1,True,image;shown;the following,False,0
+MM-1454,1,False,,False,0
+MM-1455,1,False,,False,0
+MM-1456,1,False,,False,0
+MM-1457,1,True,figure;the following,False,0
+MM-1458,1,True,scan,False,0
+MM-1459,5,True,figure;radiograph;the following,True,5
+MM-1460,1,True,figure;radiograph;shown;the following,False,0
+MM-1461,1,True,figure;shown;the following,False,0
+MM-1462,1,True,shown;the following,False,0
+MM-1463,1,True,figure;radiograph;shown,False,0
+MM-1464,1,True,figure;scan;shown,False,0
+MM-1465,1,True,scan,False,0
+MM-1466,1,True,panel;scan,False,0
+MM-1467,1,True,figure;shown;tracing,False,0
+MM-1468,1,True,figure;image,False,0
+MM-1469,1,False,,False,0
+MM-1470,1,True,figure;radiograph,False,0
+MM-1471,1,True,image;scan,False,0
+MM-1472,1,True,the following,False,0
+MM-1473,2,True,figure;photograph;shown;the following,False,0
+MM-1474,1,True,the following,False,0
+MM-1475,1,False,,False,0
+MM-1476,1,True,figure;scan;shown,False,0
+MM-1477,1,True,depicted;image,False,0
+MM-1478,1,True,shown;the following,False,0
+MM-1479,1,True,scan,False,0
+MM-1480,1,True,figure;shown;the following,False,0
+MM-1481,1,False,,False,0
+MM-1482,1,True,figure,False,0
+MM-1483,3,True,figure;radiograph;shown,False,0
+MM-1484,2,True,figure;shown,False,0
+MM-1485,1,True,graph;the following,False,0
+MM-1486,2,True,depicted;figure;shown,False,0
+MM-1487,1,True,image,False,0
+MM-1488,1,True,the following,False,0
+MM-1489,1,False,,False,0
+MM-1490,1,True,figure;tracing,False,0
+MM-1491,5,True,figure;imaging;radiograph,False,0
+MM-1492,1,False,,False,0
+MM-1493,1,False,,False,0
+MM-1494,1,True,image,False,0
+MM-1495,1,True,depicted;figure;the following,False,0
+MM-1496,1,True,figure;radiograph,False,0
+MM-1497,1,True,figure;shown,False,0
+MM-1498,1,False,,False,0
+MM-1499,3,True,figure;radiograph;the following,False,0
+MM-1500,1,False,,False,0
+MM-1501,1,True,figure;radiograph;shown,False,0
+MM-1502,3,True,figure;radiograph;shown,False,0
+MM-1503,1,True,figure;scan;shown;the following,False,0
+MM-1504,5,True,figure;the following,True,5
+MM-1505,1,True,scan;the following,False,0
+MM-1506,1,True,scan;shown,False,0
+MM-1507,1,True,figure;the following,False,0
+MM-1508,1,False,,False,0
+MM-1509,5,True,figure;the following,True,5
+MM-1510,1,True,arrow;radiograph,False,0
+MM-1511,1,True,image;radiograph;shown;the following,False,0
+MM-1512,1,True,radiograph,False,0
+MM-1513,1,False,,False,0
+MM-1514,1,True,shown;the following,False,0
+MM-1515,1,True,figure;shown,False,0
+MM-1516,1,True,figure;radiograph;shown,False,0
+MM-1517,6,True,figure;radiograph;shown;the following,True,5
+MM-1518,1,True,figure;radiograph,False,0
+MM-1519,1,True,shown,False,0
+MM-1520,1,True,depicted,False,0
+MM-1521,1,True,figure;shown,False,0
+MM-1522,1,True,figure;scan;shown,False,0
+MM-1523,1,True,figure;radiograph,False,0
+MM-1524,2,True,figure;radiograph;shown,False,0
+MM-1525,1,False,,False,0
+MM-1526,1,False,,False,0
+MM-1527,2,True,imaging,False,0
+MM-1528,1,True,image;shown;the following,False,0
+MM-1529,1,True,image;shown,False,0
+MM-1530,1,False,,False,0
+MM-1531,2,True,figure;shown;the following,False,0
+MM-1532,1,True,arrow;image,False,0
+MM-1533,2,True,figure;image;radiograph;shown,False,0
+MM-1534,1,True,figure;scan;shown,False,0
+MM-1535,1,False,,False,0
+MM-1536,1,True,figure;shown,False,0
+MM-1537,1,True,image,False,0
+MM-1538,1,False,,False,0
+MM-1539,1,True,figure;radiograph;shown,False,0
+MM-1540,2,True,figure;image;imaging;scan,False,0
+MM-1541,2,True,depicted;figure;shown,False,0
+MM-1542,1,True,figure;shown,False,0
+MM-1543,1,True,radiograph;scan,False,0
+MM-1544,1,True,image;radiograph,False,0
+MM-1545,1,False,,False,0
+MM-1546,1,True,figure;shown,False,0
+MM-1547,1,False,,False,0
+MM-1548,1,True,figure;shown;the following,False,0
+MM-1549,1,True,arrow;image;imaging,False,0
+MM-1550,1,True,image;radiograph;shown,True,1
+MM-1551,1,True,the following,False,0
+MM-1552,2,True,image,False,0
+MM-1553,1,True,depicted;image,False,0
+MM-1554,1,True,figure;radiograph,False,0
+MM-1555,3,True,figure;illustrated;shown,False,0
+MM-1556,1,True,image;shown;the following,False,0
+MM-1557,1,True,image;shown,False,0
+MM-1558,2,True,figure;shown,False,0
+MM-1559,1,True,figure;image;shown;the following,False,0
+MM-1560,1,True,radiograph,False,0
+MM-1561,1,False,,False,0
+MM-1562,1,False,,False,0
+MM-1563,3,True,image,False,0
+MM-1564,1,True,image,False,0
+MM-1565,1,True,figure;scan;shown;the following,False,0
+MM-1566,1,True,figure;image;shown;the following,False,0
+MM-1567,5,True,figure;image;photograph,True,5
+MM-1568,1,True,depicted;image;the following,False,0
+MM-1569,1,True,figure;scan;shown,False,0
+MM-1570,1,False,,False,0
+MM-1571,1,False,,False,0
+MM-1572,1,True,figure;shown,False,0
+MM-1573,1,True,depicted;figure,False,0
+MM-1574,1,True,scan,False,0
+MM-1575,1,True,figure;radiograph;shown,False,0
+MM-1576,1,True,figure;shown,False,0
+MM-1577,1,True,figure;shown,False,0
+MM-1578,1,True,figure;shown,False,0
+MM-1579,1,True,figure;shown,False,0
+MM-1580,1,True,figure;radiograph,False,0
+MM-1581,1,False,,False,0
+MM-1582,5,True,depicted;figure,True,5
+MM-1583,1,True,figure;imaging;radiograph,False,0
+MM-1584,1,False,,False,0
+MM-1585,3,True,figure;radiograph;shown;the following,False,0
+MM-1586,1,True,image;shown;the following,False,0
+MM-1587,2,True,figure;radiograph;shown,False,0
+MM-1588,2,True,figure;the following,False,0
+MM-1589,2,True,arrow;figure;radiograph;the following,False,0
+MM-1590,1,True,figure,False,0
+MM-1591,2,True,figure;shown;the following,False,0
+MM-1592,3,True,figure;image;imaging;radiograph;the following,False,0
+MM-1593,1,True,figure;the following,False,0
+MM-1594,1,True,depicted;figure;the following,False,0
+MM-1595,1,True,image;shown;the following,False,0
+MM-1596,1,True,depicted;figure;the following,False,0
+MM-1597,1,True,image;shown;the following,False,0
+MM-1598,1,True,figure,False,0
+MM-1599,1,True,image;the following,False,0
+MM-1600,1,True,image;shown;the following,False,0
+MM-1601,1,True,the following,False,0
+MM-1602,1,True,figure;shown,False,0
+MM-1603,5,True,figure;shown,True,5
+MM-1604,1,True,image;the following,False,0
+MM-1605,2,True,figure;imaging;radiograph;scan;the following,False,0
+MM-1606,1,True,figure,False,0
+MM-1607,2,True,image;shown,False,0
+MM-1608,1,True,image;scan,False,0
+MM-1609,1,True,figure,False,0
+MM-1610,1,True,the following,False,0
+MM-1611,1,False,,False,0
+MM-1612,1,False,,False,0
+MM-1613,1,True,image,False,0
+MM-1614,1,True,figure,False,0
+MM-1615,1,True,image;the following,False,0
+MM-1616,1,True,figure;shown;the following,False,0
+MM-1617,1,True,figure;shown;the following,False,0
+MM-1618,1,True,figure;radiograph;shown,False,0
+MM-1619,1,True,figure;radiograph;shown,False,0
+MM-1620,1,True,imaging;the following,False,0
+MM-1621,1,False,,False,0
+MM-1622,1,True,figure,False,0
+MM-1623,5,True,figure;shown;the following,True,5
+MM-1624,2,True,shown,False,0
+MM-1625,1,False,,False,0
+MM-1626,1,True,figure;radiograph;shown,False,0
+MM-1627,1,False,,False,0
+MM-1628,1,True,figure;shown,False,0
+MM-1629,1,True,figure;shown,False,0
+MM-1630,2,True,image;the following,False,0
+MM-1631,1,True,arrow;the following,False,0
+MM-1632,1,True,figure;scan;shown,False,0
+MM-1633,1,True,figure;shown,False,0
+MM-1634,1,True,the following,False,0
+MM-1635,1,True,shown;tracing,False,0
+MM-1636,1,True,figure;scan;the following,False,0
+MM-1637,1,False,,False,0
+MM-1638,1,True,the following,False,0
+MM-1639,1,True,figure;shown,False,0
+MM-1640,1,True,shown;the following,False,0
+MM-1641,1,True,image;shown,False,0
+MM-1642,6,True,figure;imaging;shown,True,5
+MM-1643,5,True,figure;image,True,5
+MM-1644,1,True,scan,False,0
+MM-1645,1,True,image,False,0
+MM-1646,1,True,imaging,False,0
+MM-1647,1,True,radiograph;shown;the following,False,0
+MM-1648,5,False,,False,0
+MM-1649,1,True,depicted;figure,False,0
+MM-1650,1,False,,False,0
+MM-1651,1,True,image;shown,False,0
+MM-1652,1,True,micrograph,False,0
+MM-1653,2,True,figure;radiograph;shown,False,0
+MM-1654,1,True,image;shown,False,0
+MM-1655,1,True,figure;shown,False,0
+MM-1656,1,True,figure,False,0
+MM-1657,1,False,,False,0
+MM-1658,2,True,figure;radiograph,False,0
+MM-1659,1,True,shown,False,0
+MM-1660,1,True,figure;radiograph;shown,False,0
+MM-1661,3,True,figure;image;radiograph;scan,False,0
+MM-1662,1,True,the following,False,0
+MM-1663,1,False,,False,0
+MM-1664,1,True,figure;shown,False,0
+MM-1665,1,True,figure;radiograph;shown,False,0
+MM-1666,1,False,,False,0
+MM-1667,1,True,image;radiograph,False,0
+MM-1668,1,True,the following,False,0
+MM-1669,1,True,arrow,False,0
+MM-1670,4,True,figure;radiograph,False,0
+MM-1671,1,True,micrograph,False,0
+MM-1672,2,True,image;shown,False,0
+MM-1673,1,True,figure;shown,False,0
+MM-1674,6,True,figure;illustrated;radiograph,True,5
+MM-1675,1,True,depicted;figure,False,0
+MM-1676,1,True,image,False,0
+MM-1677,1,False,,False,0
+MM-1678,1,True,figure;panel;shown,True,1
+MM-1679,1,True,figure;imaging;radiograph,False,0
+MM-1680,4,True,figure;image;radiograph;shown,False,0
+MM-1681,1,True,shown,False,0
+MM-1682,2,True,figure;imaging;radiograph;scan;shown,False,0
+MM-1683,1,True,depicted;figure,False,0
+MM-1684,1,True,the following,False,0
+MM-1685,1,True,scan,False,0
+MM-1686,1,True,figure;scan;shown,False,0
+MM-1687,2,True,depicted;figure,True,1
+MM-1688,1,False,,False,0
+MM-1689,1,True,the following,False,0
+MM-1690,2,True,image;imaging;the following,False,0
+MM-1691,2,True,figure;shown,False,0
+MM-1692,1,True,image;scan,False,0
+MM-1693,1,True,figure,False,0
+MM-1694,2,True,figure;radiograph;shown;the following,False,0
+MM-1695,4,True,image,False,0
+MM-1696,1,True,figure;imaging;the following,False,0
+MM-1697,1,False,,False,0
+MM-1698,1,True,figure;radiograph;the following,False,0
+MM-1699,1,True,figure;radiograph;shown;the following,False,0
+MM-1700,5,True,figure;shown,True,5
+MM-1701,1,True,figure;radiograph;shown,False,0
+MM-1702,1,True,figure;imaging;radiograph;the following,False,0
+MM-1703,1,True,image,False,0
+MM-1704,1,False,,False,0
+MM-1705,1,True,figure;the following,False,0
+MM-1706,1,True,image;shown,False,0
+MM-1707,1,True,image,False,0
+MM-1708,2,True,depicted;figure,False,0
+MM-1709,1,True,scan,False,0
+MM-1710,5,True,image;radiograph,True,5
+MM-1711,1,True,as seen;figure,False,0
+MM-1712,1,True,illustrated;image;shown,False,0
+MM-1713,3,True,shown,False,0
+MM-1714,1,False,,False,0
+MM-1715,1,True,figure;shown,False,0
+MM-1716,1,True,figure;shown,False,0
+MM-1717,1,False,,False,0
+MM-1718,1,True,depicted;figure,False,0
+MM-1719,1,True,arrow;image;the following,False,0
+MM-1720,1,False,,False,0
+MM-1721,1,True,image;shown,False,0
+MM-1722,1,True,figure;shown,False,0
+MM-1723,1,True,figure;shown,False,0
+MM-1724,1,True,figure;shown;the following,False,0
+MM-1725,2,True,radiograph,False,0
+MM-1726,1,True,figure;the following,False,0
+MM-1727,1,True,figure;shown,False,0
+MM-1728,1,True,the following,False,0
+MM-1729,1,False,,False,0
+MM-1730,2,True,figure;shown,False,0
+MM-1731,1,False,,False,0
+MM-1732,1,True,figure;shown,False,0
+MM-1733,1,True,figure;shown,False,0
+MM-1734,1,True,figure;the following,False,0
+MM-1735,6,True,figure;image;radiograph;shown,True,5
+MM-1736,1,True,radiograph;the following,False,0
+MM-1737,3,True,image,False,0
+MM-1738,1,False,,False,0
+MM-1739,1,True,figure;shown,False,0
+MM-1740,1,True,figure;radiograph;shown,False,0
+MM-1741,3,True,figure;imaging;radiograph;scan;the following,False,0
+MM-1742,1,True,figure,False,0
+MM-1743,1,True,the following,False,0
+MM-1744,2,True,figure;shown;the following,False,0
+MM-1745,1,True,imaging;scan,False,0
+MM-1746,1,True,imaging;radiograph;scan,False,0
+MM-1747,1,True,figure,False,0
+MM-1748,1,True,figure;shown;the following,False,0
+MM-1749,1,True,figure;scan;shown,False,0
+MM-1750,1,True,image,False,0
+MM-1751,5,True,figure;the following,True,5
+MM-1752,1,True,radiograph;shown,False,0
+MM-1753,1,True,image;radiograph,False,0
+MM-1754,1,False,,False,0
+MM-1755,1,False,,False,0
+MM-1756,1,True,image;shown;the following,False,0
+MM-1757,1,True,image;shown,False,0
+MM-1758,1,False,,False,0
+MM-1759,1,False,,False,0
+MM-1760,2,True,figure;shown,False,0
+MM-1761,1,False,,False,0
+MM-1762,1,True,figure;scan,False,0
+MM-1763,1,True,figure;radiograph,False,0
+MM-1764,1,False,,False,0
+MM-1765,1,True,arrow,False,0
+MM-1766,1,False,,False,0
+MM-1767,1,True,image;shown,False,0
+MM-1768,1,False,,False,0
+MM-1769,1,True,the following,False,0
+MM-1770,1,True,figure;shown;the following,False,0
+MM-1771,1,True,figure,False,0
+MM-1772,1,True,image;radiograph;the following,False,0
+MM-1773,1,True,depicted;figure,False,0
+MM-1774,1,True,scan;shown,False,0
+MM-1775,1,True,figure;the following,False,0
+MM-1776,2,True,figure;shown;tracing,False,0
+MM-1777,3,False,,False,0
+MM-1778,1,True,imaging;micrograph;radiograph,False,0
+MM-1779,1,False,,False,0
+MM-1780,1,False,,False,0
+MM-1781,1,True,the following,False,0
+MM-1782,1,True,image,False,0
+MM-1783,5,True,figure;radiograph;the following,True,5
+MM-1784,1,False,,False,0
+MM-1785,1,True,figure;shown,False,0
+MM-1786,2,True,figure;radiograph,False,0
+MM-1787,1,False,,False,0
+MM-1788,1,True,depicted;image,False,0
+MM-1789,1,True,image;the following,False,0
+MM-1790,1,True,figure;shown,False,0
+MM-1791,1,True,image,False,0
+MM-1792,1,False,,False,0
+MM-1793,1,True,figure,False,0
+MM-1794,1,True,imaging;scan,False,0
+MM-1795,1,True,the following,False,0
+MM-1796,2,True,image;shown;the following,False,0
+MM-1797,1,True,image;shown;the following,False,0
+MM-1798,1,True,figure;the following,False,0
+MM-1799,1,True,figure;imaging,False,0
+MM-1800,2,True,figure;radiograph;shown;the following,False,0
+MM-1801,1,True,figure,False,0
+MM-1802,1,True,arrow;radiograph;shown,False,0
+MM-1803,1,True,the following,False,0
+MM-1804,5,True,figure;radiograph;the following,True,5
+MM-1805,1,True,arrow;image,False,0
+MM-1806,1,False,,False,0
+MM-1807,1,False,,False,0
+MM-1808,1,True,figure,False,0
+MM-1809,5,True,figure;image;radiograph;shown,True,5
+MM-1810,1,True,image;shown,False,0
+MM-1811,2,True,imaging;radiograph;scan,False,0
+MM-1812,1,False,,False,0
+MM-1813,1,True,radiograph,False,0
+MM-1814,1,True,image,False,0
+MM-1815,1,True,the following,False,0
+MM-1816,1,True,radiograph,False,0
+MM-1817,1,True,figure;shown,False,0
+MM-1818,1,True,figure;shown,False,0
+MM-1819,1,True,figure;radiograph;the following,False,0
+MM-1820,1,False,,False,0
+MM-1821,2,True,graph;the following,False,0
+MM-1822,1,True,radiograph,False,0
+MM-1823,1,True,figure;radiograph;the following,False,0
+MM-1824,1,True,the following,False,0
+MM-1825,1,True,figure;scan;shown,False,0
+MM-1826,1,False,,False,0
+MM-1827,1,True,figure;shown;the following,False,0
+MM-1828,1,True,figure;image;shown,False,0
+MM-1829,2,True,figure,False,0
+MM-1830,2,True,image;imaging;the following,False,0
+MM-1831,1,True,the following,False,0
+MM-1832,1,True,shown;the following,False,0
+MM-1833,1,True,arrow;image;radiograph,False,0
+MM-1834,1,False,,False,0
+MM-1835,1,True,imaging,False,0
+MM-1836,1,True,the following,False,0
+MM-1837,2,True,figure;radiograph;scan;the following,False,0
+MM-1838,1,False,,False,0
+MM-1839,1,True,scan;shown,False,0
+MM-1840,1,True,figure;radiograph;shown;the following,False,0
+MM-1841,2,True,depicted;figure,False,0
+MM-1842,1,False,,False,0
+MM-1843,2,True,figure;radiograph,False,0
+MM-1844,1,True,figure;scan,False,0
+MM-1845,1,False,,False,0
+MM-1846,1,True,as seen;figure;radiograph;the following,False,0
+MM-1847,1,True,arrow;image,True,5
+MM-1848,1,False,,False,0
+MM-1849,2,True,image,False,0
+MM-1850,1,True,figure;shown,False,0
+MM-1851,1,False,,False,0
+MM-1852,1,True,figure;photograph;shown,False,0
+MM-1853,1,True,figure,False,0
+MM-1854,1,True,figure;the following,False,0
+MM-1855,5,True,figure;image,True,5
+MM-1856,1,False,,False,0
+MM-1857,2,True,figure;shown;the following,False,0
+MM-1858,1,True,shown,False,0
+MM-1859,5,True,figure;shown,True,5
+MM-1860,1,True,figure;imaging;shown;the following,False,0
+MM-1861,1,True,figure;shown;the following,False,0
+MM-1862,1,True,the following,False,0
+MM-1863,1,False,,False,0
+MM-1864,2,True,figure;shown;the following,False,0
+MM-1865,1,True,figure,False,0
+MM-1866,1,True,image,False,0
+MM-1867,2,True,figure;the following,False,0
+MM-1868,1,True,figure;image;shown,False,0
+MM-1869,1,True,figure,False,0
+MM-1870,1,True,scan;shown,False,0
+MM-1871,1,False,,False,0
+MM-1872,1,True,scan,False,0
+MM-1873,1,True,figure;shown,False,0
+MM-1874,1,False,,False,0
+MM-1875,2,True,image,False,0
+MM-1876,1,False,,False,0
+MM-1877,1,True,shown,False,0
+MM-1878,1,True,figure;scan;shown;the following,False,0
+MM-1879,2,True,figure;shown,False,0
+MM-1880,1,True,figure,False,0
+MM-1881,5,True,figure;illustrated,True,5
+MM-1882,6,True,figure;image;the following,True,5
+MM-1883,1,True,figure;radiograph;scan;shown,False,0
+MM-1884,1,True,figure;shown;tracing,False,0
+MM-1885,1,False,,False,0
+MM-1886,1,True,figure;radiograph;the following,False,0
+MM-1887,1,True,figure;the following,False,0
+MM-1888,1,True,imaging;scan;the following,False,0
+MM-1889,2,True,image;radiograph;the following,False,0
+MM-1890,1,True,figure;the following,False,0
+MM-1891,1,True,depicted;figure;the following,False,0
+MM-1892,2,True,figure;radiograph;shown,False,0
+MM-1893,1,True,figure;image;radiograph;scan;shown,False,0
+MM-1894,1,True,image;shown;the following,False,0
+MM-1895,2,True,arrow;figure;imaging;radiograph;scan;shown,False,0
+MM-1896,5,True,figure;image;the following,True,5
+MM-1897,1,True,figure;the following,False,0
+MM-1898,1,True,figure;shown,False,0
+MM-1899,5,True,figure,True,5
+MM-1900,1,True,figure;scan;shown,False,0
+MM-1901,1,True,image;slide;the following,False,0
+MM-1902,1,False,,False,0
+MM-1903,1,True,figure;shown,False,0
+MM-1904,1,True,depicted;image,False,0
+MM-1905,1,True,shown,False,0
+MM-1906,1,True,figure;radiograph;shown,False,0
+MM-1907,1,True,figure;the following,False,0
+MM-1908,1,True,image;the following,False,0
+MM-1909,1,True,the following,False,0
+MM-1910,1,True,depicted;image;scan,False,0
+MM-1911,1,False,,False,0
+MM-1912,1,True,the following,False,0
+MM-1913,1,True,the following,False,0
+MM-1914,1,True,scan;shown,False,0
+MM-1915,5,True,figure,True,5
+MM-1916,3,False,,False,0
+MM-1917,1,True,figure,False,0
+MM-1918,5,True,figure;illustrated;radiograph,False,0
+MM-1919,1,True,the following,False,0
+MM-1920,1,True,image;shown,False,0
+MM-1921,1,True,figure,False,0
+MM-1922,1,True,figure;shown,False,0
+MM-1923,1,True,depicted;figure;the following,False,0
+MM-1924,1,True,scan;shown,False,0
+MM-1925,1,False,,False,0
+MM-1926,1,False,,False,0
+MM-1927,1,True,figure;radiograph;shown,False,0
+MM-1928,5,True,figure;the following,True,5
+MM-1929,1,True,scan,False,0
+MM-1930,1,True,figure;shown,False,0
+MM-1931,1,True,tracing,False,0
+MM-1932,1,False,,False,0
+MM-1933,1,False,,False,0
+MM-1934,1,False,,False,0
+MM-1935,1,True,figure;shown,False,0
+MM-1936,1,True,image;shown;the following,False,0
+MM-1937,1,True,figure,False,0
+MM-1938,2,False,,False,0
+MM-1939,1,True,radiograph;the following,False,0
+MM-1940,1,False,,False,0
+MM-1941,1,True,figure;radiograph;shown,False,0
+MM-1942,6,True,figure;radiograph;shown;the following,True,5
+MM-1943,1,False,,False,0
+MM-1944,1,True,the following,False,0
+MM-1945,1,True,image;shown;slide;the following,True,1
+MM-1946,1,True,micrograph,False,0
+MM-1947,1,True,graph;shown,False,0
+MM-1948,1,True,image;scan;shown;the following,False,0
+MM-1949,1,False,,False,0
+MM-1950,1,True,radiograph;scan;the following,False,0
+MM-1951,2,True,image;shown,False,0
+MM-1952,1,True,figure,False,0
+MM-1953,1,True,figure;shown,False,0
+MM-1954,1,False,,False,0
+MM-1955,1,False,,False,0
+MM-1956,3,True,figure;radiograph;shown,False,0
+MM-1957,4,True,image;radiograph,False,0
+MM-1958,1,False,,False,0
+MM-1959,1,False,,False,0
+MM-1960,2,False,,False,0
+MM-1961,1,True,the following,False,0
+MM-1962,1,False,,False,0
+MM-1963,1,False,,False,0
+MM-1964,1,True,figure;radiograph,False,0
+MM-1965,1,True,figure;shown,False,0
+MM-1966,1,True,figure;radiograph,False,0
+MM-1967,2,True,figure;radiograph,False,0
+MM-1968,1,True,figure;radiograph;scan;shown,False,0
+MM-1969,1,True,radiograph,False,0
+MM-1970,1,True,figure;shown,False,0
+MM-1971,3,True,figure;photograph;radiograph;shown,False,0
+MM-1972,2,False,,False,0
+MM-1973,1,True,figure;radiograph;shown;the following,False,0
+MM-1974,2,True,figure;shown,False,0
+MM-1975,1,True,the following,False,0
+MM-1976,1,True,figure;image,False,0
+MM-1977,1,False,,False,0
+MM-1978,1,True,figure;shown,False,0
+MM-1979,1,True,figure;the following,False,0
+MM-1980,1,True,image;radiograph;shown;the following,False,0
+MM-1981,1,True,figure,True,1
+MM-1982,3,False,,False,0
+MM-1983,3,True,figure;radiograph;scan,False,0
+MM-1984,1,True,figure;shown,False,0
+MM-1985,1,True,image;shown;the following,False,0
+MM-1986,1,True,the following,False,0
+MM-1987,1,True,the following,False,0
+MM-1988,1,True,arrow,False,0
+MM-1989,1,True,figure;radiograph;shown,False,0
+MM-1990,1,True,image;shown,False,0
+MM-1991,2,False,,False,0
+MM-1992,1,True,depicted;figure,False,0
+MM-1993,1,True,figure;scan,False,0
+MM-1994,1,True,figure,False,0
+MM-1995,1,True,figure,False,0
+MM-1996,2,False,,False,0
+MM-1997,1,False,,False,0
+MM-1998,1,True,image;shown;the following,False,0
+MM-1999,2,True,figure;photograph;radiograph;shown,False,0

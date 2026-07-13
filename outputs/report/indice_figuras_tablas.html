@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>indice figuras tablas</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  color: #1a1a1a; background: #f4f4f2; line-height: 1.62;
+  margin: 0; padding: 2.2rem 1rem;
+}
+main {
+  max-width: 900px; margin: 0 auto; background: #ffffff;
+  padding: 2.6rem 3rem; border: 1px solid #e2e1db; border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+}
+h1, h2, h3 { line-height: 1.25; color: #0b0b0b; }
+h1 { font-size: 1.85rem; margin: 0 0 1.2rem; padding-bottom: .5rem; border-bottom: 3px solid #2a78d6; }
+h2 { font-size: 1.35rem; margin: 2.2rem 0 .8rem; padding-bottom: .3rem; border-bottom: 1px solid #e2e1db; }
+h3 { font-size: 1.1rem; margin: 1.6rem 0 .5rem; color: #2a3340; }
+p, li { font-size: .98rem; }
+a { color: #1f5fac; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code {
+  font-family: "Cascadia Code", Consolas, monospace; font-size: .86em;
+  background: #f0f1f3; padding: .1em .38em; border-radius: 4px; color: #b02a5b;
+}
+table {
+  border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem;
+  display: block; overflow-x: auto;
+}
+th, td { border: 1px solid #dcdbd5; padding: .5rem .7rem; text-align: left; vertical-align: top; }
+th { background: #eef2f7; font-weight: 600; color: #17324f; }
+tbody tr:nth-child(even) { background: #fafafa; }
+blockquote {
+  margin: 1rem 0; padding: .6rem 1.1rem; border-left: 4px solid #2a78d6;
+  background: #f5f8fd; color: #33445a; border-radius: 0 6px 6px 0;
+}
+blockquote p { margin: .3rem 0; }
+img { max-width: 100%; height: auto; display: block; margin: 1.2rem auto;
+      border: 1px solid #e2e1db; border-radius: 6px; }
+hr { border: none; border-top: 1px solid #e2e1db; margin: 2rem 0; }
+ul, ol { padding-left: 1.4rem; }
+li { margin: .25rem 0; }
+footer { max-width: 900px; margin: 1rem auto 0; color: #8a8a84; font-size: .8rem; text-align: center; }
+@media print {
+  body { background: #fff; padding: 0; }
+  main { border: none; box-shadow: none; max-width: none; padding: 0; }
+  h2 { page-break-after: avoid; }
+  table, img, blockquote { page-break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+<main>
+<h1>Índice de figuras, tablas e informes — EDA MedXpertQA</h1>
+<p>Generado por <code>src/eda.py</code>. 16 figuras (PNG 300 dpi), 22 tablas y 5 informes. Enlaces relativos a este fichero (<code>outputs/report/</code>).</p>
+<h2>Lista de figuras</h2>
+<table>
+<thead>
+<tr>
+  <th style="text-align:right">Nº</th>
+  <th>Figura</th>
+  <th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:right">1</td>
+  <td><a href="../figures/c1_dist_body_system.png"><code>c1_dist_body_system.png</code></a></td>
+  <td>Distribución por sistema corporal (body_system), MM vs Text (%).</td>
+</tr>
+<tr>
+  <td style="text-align:right">2</td>
+  <td><a href="../figures/c1_dist_medical_task.png"><code>c1_dist_medical_task.png</code></a></td>
+  <td>Distribución por tarea médica (medical_task), MM vs Text (%).</td>
+</tr>
+<tr>
+  <td style="text-align:right">3</td>
+  <td><a href="../figures/c1_dist_question_type.png"><code>c1_dist_question_type.png</code></a></td>
+  <td>Distribución por tipo de pregunta (question_type), MM vs Text (%).</td>
+</tr>
+<tr>
+  <td style="text-align:right">4</td>
+  <td><a href="../figures/c1_cross_question_type_x_medical_task.png"><code>c1_cross_question_type_x_medical_task.png</code></a></td>
+  <td>Tabla cruzada question_type × medical_task (mapas de calor MM y Text).</td>
+</tr>
+<tr>
+  <td style="text-align:right">5</td>
+  <td><a href="../figures/c1_cross_body_system_x_medical_task.png"><code>c1_cross_body_system_x_medical_task.png</code></a></td>
+  <td>Tabla cruzada body_system × medical_task (mapas de calor MM y Text).</td>
+</tr>
+<tr>
+  <td style="text-align:right">6</td>
+  <td><a href="../figures/c2_label_MM.png"><code>c2_label_MM.png</code></a></td>
+  <td>Distribución de la letra correcta en MM (A–E) frente a la uniforme.</td>
+</tr>
+<tr>
+  <td style="text-align:right">7</td>
+  <td><a href="../figures/c2_label_Text.png"><code>c2_label_Text.png</code></a></td>
+  <td>Distribución de la letra correcta en Text (A–J) frente a la uniforme.</td>
+</tr>
+<tr>
+  <td style="text-align:right">8</td>
+  <td><a href="../figures/c3_tokens_hist.png"><code>c3_tokens_hist.png</code></a></td>
+  <td>Histograma de longitud del enunciado en tokens (cl100k) por subconjunto.</td>
+</tr>
+<tr>
+  <td style="text-align:right">9</td>
+  <td><a href="../figures/c3_tokens_by_qtype.png"><code>c3_tokens_by_qtype.png</code></a></td>
+  <td>Longitud del enunciado por tipo de pregunta (diagramas de caja).</td>
+</tr>
+<tr>
+  <td style="text-align:right">10</td>
+  <td><a href="../figures/c3_similarity_MM.png"><code>c3_similarity_MM.png</code></a></td>
+  <td>Máxima similitud coseno intra-subconjunto en MM.</td>
+</tr>
+<tr>
+  <td style="text-align:right">11</td>
+  <td><a href="../figures/c3_similarity_Text.png"><code>c3_similarity_Text.png</code></a></td>
+  <td>Máxima similitud coseno intra-subconjunto en Text.</td>
+</tr>
+<tr>
+  <td style="text-align:right">12</td>
+  <td><a href="../figures/c4_images_per_question.png"><code>c4_images_per_question.png</code></a></td>
+  <td>Número de imágenes por pregunta en MM.</td>
+</tr>
+<tr>
+  <td style="text-align:right">13</td>
+  <td><a href="../figures/c4_image_properties.png"><code>c4_image_properties.png</code></a></td>
+  <td>Propiedades de las imágenes MM: anchura, altura, área, aspecto, tamaño y color/gris.</td>
+</tr>
+<tr>
+  <td style="text-align:right">14</td>
+  <td><a href="../figures/c4_image_formats.png"><code>c4_image_formats.png</code></a></td>
+  <td>Formato de archivo de las imágenes MM.</td>
+</tr>
+<tr>
+  <td style="text-align:right">15</td>
+  <td><a href="../figures/c4_contact_sheet.png"><code>c4_contact_sheet.png</code></a></td>
+  <td>Hoja de contactos: muestra estratificada por body_system para anotación manual de modalidad.</td>
+</tr>
+<tr>
+  <td style="text-align:right">16</td>
+  <td><a href="../figures/c5_text_image_coupling.png"><code>c5_text_image_coupling.png</code></a></td>
+  <td>Acoplamiento texto↔imagen en MM: mención explícita, implícita y opciones que refieren figura.</td>
+</tr>
+</tbody>
+</table>
+<h2>Lista de tablas</h2>
+<table>
+<thead>
+<tr>
+  <th style="text-align:right">Nº</th>
+  <th>Tabla</th>
+  <th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:right">1</td>
+  <td><a href="../tables/c1_dist_body_system.csv"><code>c1_dist_body_system.csv</code></a></td>
+  <td>Conteos y porcentajes por sistema corporal (MM y Text).</td>
+</tr>
+<tr>
+  <td style="text-align:right">2</td>
+  <td><a href="../tables/c1_dist_medical_task.csv"><code>c1_dist_medical_task.csv</code></a></td>
+  <td>Conteos y porcentajes por tarea médica.</td>
+</tr>
+<tr>
+  <td style="text-align:right">3</td>
+  <td><a href="../tables/c1_dist_question_type.csv"><code>c1_dist_question_type.csv</code></a></td>
+  <td>Conteos y porcentajes por tipo de pregunta.</td>
+</tr>
+<tr>
+  <td style="text-align:right">4</td>
+  <td><a href="../tables/c1_cross_question_type_x_medical_task_MM.csv"><code>c1_cross_question_type_x_medical_task_MM.csv</code></a></td>
+  <td>Tabla cruzada question_type × medical_task (MM).</td>
+</tr>
+<tr>
+  <td style="text-align:right">5</td>
+  <td><a href="../tables/c1_cross_question_type_x_medical_task_Text.csv"><code>c1_cross_question_type_x_medical_task_Text.csv</code></a></td>
+  <td>Tabla cruzada question_type × medical_task (Text).</td>
+</tr>
+<tr>
+  <td style="text-align:right">6</td>
+  <td><a href="../tables/c1_cross_body_system_x_medical_task_MM.csv"><code>c1_cross_body_system_x_medical_task_MM.csv</code></a></td>
+  <td>Tabla cruzada body_system × medical_task (MM).</td>
+</tr>
+<tr>
+  <td style="text-align:right">7</td>
+  <td><a href="../tables/c1_cross_body_system_x_medical_task_Text.csv"><code>c1_cross_body_system_x_medical_task_Text.csv</code></a></td>
+  <td>Tabla cruzada body_system × medical_task (Text).</td>
+</tr>
+<tr>
+  <td style="text-align:right">8</td>
+  <td><a href="../tables/c1_options_answers.csv"><code>c1_options_answers.csv</code></a></td>
+  <td>Verificación del nº de opciones y de respuestas correctas por subconjunto.</td>
+</tr>
+<tr>
+  <td style="text-align:right">9</td>
+  <td><a href="../tables/c2_baselines.csv"><code>c2_baselines.csv</code></a></td>
+  <td>Baselines de azar y de mayoría + test χ² de uniformidad.</td>
+</tr>
+<tr>
+  <td style="text-align:right">10</td>
+  <td><a href="../tables/c2_label_distribution.csv"><code>c2_label_distribution.csv</code></a></td>
+  <td>Frecuencia de cada letra correcta por subconjunto.</td>
+</tr>
+<tr>
+  <td style="text-align:right">11</td>
+  <td><a href="../tables/c3_length_summary.csv"><code>c3_length_summary.csv</code></a></td>
+  <td>Resumen estadístico de longitudes (caracteres/palabras/tokens) por subconjunto.</td>
+</tr>
+<tr>
+  <td style="text-align:right">12</td>
+  <td><a href="../tables/c3_length_by_qtype.csv"><code>c3_length_by_qtype.csv</code></a></td>
+  <td>Longitudes por subconjunto y tipo de pregunta.</td>
+</tr>
+<tr>
+  <td style="text-align:right">13</td>
+  <td><a href="../tables/c3_near_duplicates.csv"><code>c3_near_duplicates.csv</code></a></td>
+  <td>Pares de preguntas casi-duplicadas por texto (coseno ≥ 0,85).</td>
+</tr>
+<tr>
+  <td style="text-align:right">14</td>
+  <td><a href="../tables/c3_text_lengths.csv"><code>c3_text_lengths.csv</code></a></td>
+  <td>Tabla base por pregunta: caracteres, palabras y tokens (cl100k y Qwen2.5-VL).</td>
+</tr>
+<tr>
+  <td style="text-align:right">15</td>
+  <td><a href="../tables/c4_images_per_question.csv"><code>c4_images_per_question.csv</code></a></td>
+  <td>Distribución del nº de imágenes por pregunta.</td>
+</tr>
+<tr>
+  <td style="text-align:right">16</td>
+  <td><a href="../tables/c4_image_dimensions.csv"><code>c4_image_dimensions.csv</code></a></td>
+  <td>Percentiles de anchura, altura, área, aspecto y tamaño de archivo.</td>
+</tr>
+<tr>
+  <td style="text-align:right">17</td>
+  <td><a href="../tables/c4_image_summary.json"><code>c4_image_summary.json</code></a></td>
+  <td>Resumen: formatos, reparto color/gris y huella en disco.</td>
+</tr>
+<tr>
+  <td style="text-align:right">18</td>
+  <td><a href="../tables/c4_image_properties.csv"><code>c4_image_properties.csv</code></a></td>
+  <td>Propiedades + hashes (pHash, md5) por imagen (2.852 filas).</td>
+</tr>
+<tr>
+  <td style="text-align:right">19</td>
+  <td><a href="../tables/c4_contact_sheet_manifest.csv"><code>c4_contact_sheet_manifest.csv</code></a></td>
+  <td>Manifiesto de las imágenes incluidas en la hoja de contactos.</td>
+</tr>
+<tr>
+  <td style="text-align:right">20</td>
+  <td><a href="../tables/c4_exact_duplicates.csv"><code>c4_exact_duplicates.csv</code></a></td>
+  <td>Grupos de imágenes byte-idénticas (md5) dentro de MM.</td>
+</tr>
+<tr>
+  <td style="text-align:right">21</td>
+  <td><a href="../tables/c4_duplicate_question_pairs.csv"><code>c4_duplicate_question_pairs.csv</code></a></td>
+  <td>Pares de preguntas que comparten imagen idéntica + su similitud textual.</td>
+</tr>
+<tr>
+  <td style="text-align:right">22</td>
+  <td><a href="../tables/c5_text_image_coupling.csv"><code>c5_text_image_coupling.csv</code></a></td>
+  <td>Por pregunta: mención de figura, términos detectados y opciones que refieren figura.</td>
+</tr>
+</tbody>
+</table>
+<h2>Informes</h2>
+<table>
+<thead>
+<tr>
+  <th>Documento</th>
+  <th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="00_integridad.html"><code>00_integridad.md</code></a></td>
+  <td>Informe de verificación de integridad (Tarea B).</td>
+</tr>
+<tr>
+  <td><a href="01_eda.html"><code>01_eda.md</code></a></td>
+  <td>Informe de EDA integrado con hallazgos e implicaciones de diseño (Tarea C).</td>
+</tr>
+<tr>
+  <td><a href="data_card.html"><code>data_card.md</code></a></td>
+  <td>Data card resumida del dataset.</td>
+</tr>
+<tr>
+  <td><a href="indice_figuras_tablas.html"><code>indice_figuras_tablas.md</code></a></td>
+  <td>Este índice navegable de figuras, tablas e informes.</td>
+</tr>
+<tr>
+  <td><a href="hallazgos_one_pager.html"><code>hallazgos_one_pager.md</code></a></td>
+  <td>Resumen ejecutivo de una página con los hallazgos clave.</td>
+</tr>
+</tbody>
+</table>
+
+</main>
+<footer>MedXpertQA · TFG · generado desde indice_figuras_tablas.md por src/render_reports.py</footer>
+</body>
+</html>
