@@ -1,0 +1,13 @@
+# Entorno de inferencia para el Paso 2 (harness de evaluación).
+# Se instala SOBRE el mismo .venv de requirements.txt (Paso 1); no lo sustituye.
+#
+# torch/torchvision/torchaudio requieren el build CUDA (driver -> CUDA 13.1; wheels
+# cu128 son compatibles por retrocompatibilidad). IMPORTANTE: instalar estos tres con
+# --index-url (no --extra-index-url) o pip resuelve a la rueda CPU-only de PyPI:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+#
+# El resto se instala normal desde PyPI:
+#   pip install accelerate bitsandbytes qwen-vl-utils
+accelerate
+bitsandbytes
+qwen-vl-utils

@@ -1,0 +1,158 @@
+{
+  "modelo_solicitado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "modelo_usado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "tamano_efectivo": "7b",
+  "cayo_a_3b_por_oom": false,
+  "cuantizacion": "4-bit NF4 (bitsandbytes), compute_dtype=bfloat16",
+  "n_evaluado": 2000,
+  "n_no_parseables": 0,
+  "accuracy_global": 0.2185,
+  "accuracy_global_ic95_wilson": [
+    0.2009,
+    0.2371
+  ],
+  "baseline_azar": 0.2,
+  "baseline_mayoria": 0.212,
+  "supera_baseline_mayoria": true,
+  "desagregado": {
+    "body_system": {
+      "Skeletal": {
+        "n": 491,
+        "n_correctas": 101,
+        "accuracy": 0.20570264765784113
+      },
+      "Reproductive": {
+        "n": 98,
+        "n_correctas": 24,
+        "accuracy": 0.24489795918367346
+      },
+      "Cardiovascular": {
+        "n": 320,
+        "n_correctas": 73,
+        "accuracy": 0.228125
+      },
+      "Muscular": {
+        "n": 46,
+        "n_correctas": 7,
+        "accuracy": 0.15217391304347827
+      },
+      "Lymphatic": {
+        "n": 81,
+        "n_correctas": 20,
+        "accuracy": 0.24691358024691357
+      },
+      "Nervous": {
+        "n": 231,
+        "n_correctas": 54,
+        "accuracy": 0.23376623376623376
+      },
+      "Other / NA": {
+        "n": 18,
+        "n_correctas": 4,
+        "accuracy": 0.2222222222222222
+      },
+      "Digestive": {
+        "n": 168,
+        "n_correctas": 31,
+        "accuracy": 0.18452380952380953
+      },
+      "Urinary": {
+        "n": 56,
+        "n_correctas": 8,
+        "accuracy": 0.14285714285714285
+      },
+      "Respiratory": {
+        "n": 192,
+        "n_correctas": 37,
+        "accuracy": 0.19270833333333334
+      },
+      "Endocrine": {
+        "n": 74,
+        "n_correctas": 13,
+        "accuracy": 0.17567567567567569
+      },
+      "Integumentary": {
+        "n": 225,
+        "n_correctas": 65,
+        "accuracy": 0.28888888888888886
+      }
+    },
+    "medical_task": {
+      "Treatment": {
+        "n": 448,
+        "n_correctas": 107,
+        "accuracy": 0.23883928571428573
+      },
+      "Basic Science": {
+        "n": 353,
+        "n_correctas": 65,
+        "accuracy": 0.18413597733711048
+      },
+      "Diagnosis": {
+        "n": 1199,
+        "n_correctas": 265,
+        "accuracy": 0.22101751459549623
+      }
+    },
+    "question_type": {
+      "Reasoning": {
+        "n": 1446,
+        "n_correctas": 313,
+        "accuracy": 0.21645919778699863
+      },
+      "Understanding": {
+        "n": 554,
+        "n_correctas": 124,
+        "accuracy": 0.22382671480144403
+      }
+    },
+    "n_images": {
+      "2": {
+        "n": 236,
+        "n_correctas": 47,
+        "accuracy": 0.19915254237288135
+      },
+      "1": {
+        "n": 1581,
+        "n_correctas": 363,
+        "accuracy": 0.22960151802656548
+      },
+      "6": {
+        "n": 24,
+        "n_correctas": 3,
+        "accuracy": 0.125
+      },
+      "5": {
+        "n": 78,
+        "n_correctas": 13,
+        "accuracy": 0.16666666666666666
+      },
+      "3": {
+        "n": 59,
+        "n_correctas": 7,
+        "accuracy": 0.11864406779661017
+      },
+      "4": {
+        "n": 22,
+        "n_correctas": 4,
+        "accuracy": 0.18181818181818182
+      }
+    }
+  },
+  "generacion": {
+    "max_new_tokens": 8,
+    "do_sample": false,
+    "estrategia": "greedy"
+  },
+  "entorno": {
+    "torch": "2.11.0+cu128",
+    "torch_cuda": "12.8",
+    "transformers": "4.57.6",
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "vram_gb": 8.6
+  },
+  "semilla": 42,
+  "revision_dataset": "7e7c465a68eb2b866926bfa59c8c9d17a8daba65",
+  "timestamp_utc": "2026-07-14T10:20:02.426608+00:00",
+  "tiempo_total_s": 3687.1
+}

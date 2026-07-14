@@ -1,0 +1,126 @@
+{
+  "modelo_solicitado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "modelo_usado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "tamano_efectivo": "7b",
+  "cayo_a_3b_por_oom": false,
+  "cuantizacion": "4-bit NF4 (bitsandbytes), compute_dtype=bfloat16",
+  "n_evaluado": 2450,
+  "n_no_parseables": 0,
+  "accuracy_global": 0.1224,
+  "accuracy_global_ic95_wilson": [
+    0.1101,
+    0.136
+  ],
+  "baseline_azar": 0.1,
+  "baseline_mayoria": 0.1073,
+  "supera_baseline_mayoria": true,
+  "desagregado": {
+    "body_system": {
+      "Skeletal": {
+        "n": 355,
+        "n_correctas": 51,
+        "accuracy": 0.14366197183098592
+      },
+      "Muscular": {
+        "n": 177,
+        "n_correctas": 24,
+        "accuracy": 0.13559322033898305
+      },
+      "Respiratory": {
+        "n": 193,
+        "n_correctas": 20,
+        "accuracy": 0.10362694300518134
+      },
+      "Endocrine": {
+        "n": 176,
+        "n_correctas": 13,
+        "accuracy": 0.07386363636363637
+      },
+      "Cardiovascular": {
+        "n": 306,
+        "n_correctas": 42,
+        "accuracy": 0.13725490196078433
+      },
+      "Lymphatic": {
+        "n": 85,
+        "n_correctas": 16,
+        "accuracy": 0.18823529411764706
+      },
+      "Nervous": {
+        "n": 386,
+        "n_correctas": 43,
+        "accuracy": 0.11139896373056994
+      },
+      "Reproductive": {
+        "n": 201,
+        "n_correctas": 20,
+        "accuracy": 0.09950248756218906
+      },
+      "Other / NA": {
+        "n": 126,
+        "n_correctas": 22,
+        "accuracy": 0.1746031746031746
+      },
+      "Digestive": {
+        "n": 274,
+        "n_correctas": 28,
+        "accuracy": 0.10218978102189781
+      },
+      "Integumentary": {
+        "n": 48,
+        "n_correctas": 8,
+        "accuracy": 0.16666666666666666
+      },
+      "Urinary": {
+        "n": 123,
+        "n_correctas": 13,
+        "accuracy": 0.10569105691056911
+      }
+    },
+    "medical_task": {
+      "Basic Science": {
+        "n": 654,
+        "n_correctas": 80,
+        "accuracy": 0.12232415902140673
+      },
+      "Diagnosis": {
+        "n": 1050,
+        "n_correctas": 112,
+        "accuracy": 0.10666666666666667
+      },
+      "Treatment": {
+        "n": 746,
+        "n_correctas": 108,
+        "accuracy": 0.1447721179624665
+      }
+    },
+    "question_type": {
+      "Reasoning": {
+        "n": 1861,
+        "n_correctas": 217,
+        "accuracy": 0.11660397635679742
+      },
+      "Understanding": {
+        "n": 589,
+        "n_correctas": 83,
+        "accuracy": 0.14091680814940577
+      }
+    }
+  },
+  "generacion": {
+    "max_new_tokens": 8,
+    "do_sample": false,
+    "estrategia": "greedy"
+  },
+  "entorno": {
+    "torch": "2.11.0+cu128",
+    "torch_cuda": "12.8",
+    "transformers": "4.57.6",
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "vram_gb": 8.6
+  },
+  "semilla": 42,
+  "revision_dataset": "7e7c465a68eb2b866926bfa59c8c9d17a8daba65",
+  "timestamp_utc": "2026-07-13T12:47:28.832874+00:00",
+  "tiempo_total_s": 1374.3
+}

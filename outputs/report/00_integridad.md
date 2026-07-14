@@ -1,6 +1,6 @@
 # Informe de Integridad — MedXpertQA (Paso 1 · Tarea B)
 
-- **Generado**: 2026-07-10T09:03:28.376134+00:00 (UTC)
+- **Generado**: 2026-07-13T11:41:05.333442+00:00 (UTC)
 - **Repositorio**: `TsinghuaC3I/MedXpertQA` (revisión `7e7c465a68eb2b866926bfa59c8c9d17a8daba65`)
 - **Script**: `src/verify.py` (solo lectura; no corrige anomalías)
 
