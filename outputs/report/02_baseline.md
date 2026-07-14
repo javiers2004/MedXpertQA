@@ -58,4 +58,4 @@ El rango va de **Endocrine (7.4 %, n=176)** — por debajo incluso del azar (10 
 - **Baseline superada con margen estrecho**: el IC95 no se solapa con la baseline de mayoría, así que la mejora es estadísticamente defendible, pero el margen absoluto (~1.5 puntos) es pequeño. Se recomienda usar este número, no una futura repetición con otra semilla, como referencia fija para medir el delta de CoT/RAG/QLoRA.
 - **Pendiente para el roadmap** (ver `01_PLAN_PASO_2.md` §8): extender el harness a MM (con imágenes), Paso 3 (CoT / *self-consistency*) y Paso 4 (RAG) sobre este mismo baseline.
 
-> **Actualización**: el harness ya se extendió a MM — ver [`02b_baseline_mm.md`](02b_baseline_mm.md).
+> **Actualización**: el harness ya se extendió a MM — ver [`02b_baseline_mm.md`](02b_baseline_mm.md). El piloto de Chain-of-Thought (Paso 3) sobre este mismo baseline está en [`03_cot_pilot.md`](03_cot_pilot.md).

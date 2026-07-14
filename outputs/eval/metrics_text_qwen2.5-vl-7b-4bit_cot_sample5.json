@@ -1,0 +1,94 @@
+{
+  "modo": "cot",
+  "muestra_estratificada": 5,
+  "modelo_solicitado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "modelo_usado": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "tamano_efectivo": "7b",
+  "cayo_a_3b_por_oom": false,
+  "cuantizacion": "4-bit NF4 (bitsandbytes), compute_dtype=bfloat16",
+  "n_evaluado": 5,
+  "n_no_parseables": 1,
+  "accuracy_global": 0.0,
+  "accuracy_global_ic95_wilson": [
+    0.0,
+    0.4345
+  ],
+  "baseline_azar": 0.1,
+  "baseline_mayoria": 0.1073,
+  "supera_baseline_mayoria": false,
+  "comparacion_pareada_vs_direct": {
+    "n_parejas": 5,
+    "accuracy_cot": 0.0,
+    "accuracy_direct_mismas_preguntas": 0.2,
+    "delta": -0.2
+  },
+  "desagregado": {
+    "body_system": {
+      "Respiratory": {
+        "n": 2,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Digestive": {
+        "n": 1,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Lymphatic": {
+        "n": 1,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Nervous": {
+        "n": 1,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      }
+    },
+    "medical_task": {
+      "Basic Science": {
+        "n": 2,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Diagnosis": {
+        "n": 2,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Treatment": {
+        "n": 1,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      }
+    },
+    "question_type": {
+      "Reasoning": {
+        "n": 4,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      },
+      "Understanding": {
+        "n": 1,
+        "n_correctas": 0,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "generacion": {
+    "max_new_tokens": 256,
+    "do_sample": false,
+    "estrategia": "greedy"
+  },
+  "entorno": {
+    "torch": "2.11.0+cu128",
+    "torch_cuda": "12.8",
+    "transformers": "4.57.6",
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "vram_gb": 8.6
+  },
+  "semilla": 42,
+  "revision_dataset": "7e7c465a68eb2b866926bfa59c8c9d17a8daba65",
+  "timestamp_utc": "2026-07-14T11:24:13.446680+00:00",
+  "tiempo_total_s": 62.0
+}
